@@ -22,7 +22,7 @@ Author: Kevin "Andie" Williams
 Status: Doorway pilot draft  
 Project: You Have Another Option  
 Source: Chapters/010.md; README.md; rfc/000.md  
-Safety: mortality / suicide-prevention frame implied; no method detail
+Safety: mortality / suicide-prevention frame implied; no method detail; "break down" phrase in Pressure section flagged for safety-style-guide review
 
 ---
 
