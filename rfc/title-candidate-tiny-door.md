@@ -16,19 +16,19 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Title Candidate — Tiny Door
+# Title Decision — Tiny Door
 
 Author: Kevin "Andie" Williams  
-Status: Title candidate / strong recommendation  
+Status: Title decision / repo renamed  
 Project: Tiny Door / You Have Another Option  
-Repository: AnotherOption  
+Repository: TinyDoor  
 Date: 2026-05-30
 
 ---
 
-## 1. Candidate Title
+## 1. Title
 
-Primary candidate:
+Primary title:
 
 ```text
 Tiny Door
@@ -120,16 +120,27 @@ Offer one usable opening.
 
 ---
 
-## 5. Editorial Caution
+## 5. Repository Rename
 
-Do not fully rename every file, repository, or reference yet.
+Andie renamed the repository from:
 
-Treat `Tiny Door` as the strong title candidate until:
+```text
+AnotherOption
+```
 
-- C reviews title fit;
-- Andie confirms after sobriety / next-day read;
-- cover / subtitle / market positioning are tested;
-- legacy references to `You Have Another Option` are mapped.
+to:
+
+```text
+TinyDoor
+```
+
+Canonical repository URL:
+
+```text
+https://github.com/AndieWill510/TinyDoor
+```
+
+Old URLs should redirect through GitHub, but new review packets and links should use the canonical TinyDoor URL.
 
 ---
 
@@ -140,22 +151,23 @@ Implemented now:
 ```text
 README.md title updated to Tiny Door / You Have Another Option.
 rfc/glossary-seed.md includes Tiny door / just a door as core culture phrase.
+Repository renamed to TinyDoor.
+This title record updated to reflect the rename.
 ```
 
-Not implemented yet:
+Still not fully implemented:
 
 ```text
-repository rename;
-bulk file-title rename;
-all metadata replacement;
+bulk metadata replacement across all existing files;
 cover language;
-publication-facing subtitle finalization.
+publication-facing subtitle finalization;
+all review packet URLs updated to canonical TinyDoor links.
 ```
 
 ---
 
 ## 7. Status
 
-`Tiny Door` is the leading title candidate.
+`Tiny Door` is now the working project title.
 
 `You Have Another Option` remains the subtitle / thesis.
