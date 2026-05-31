@@ -88,7 +88,7 @@ The problem was not my desire.
 
 The mouthpiece was cracked.
 
-I was never going to make those notes.
+He said to me: "You were never going to make those notes."
 
 That sentence did not give me back the lost semester.
 
