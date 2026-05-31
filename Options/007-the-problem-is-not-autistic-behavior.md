@@ -122,6 +122,8 @@ Look for smoke.
 
 ## Move
 
+If you are asking this about your own behavior, go slowly; it can be harder to offer yourself curiosity than to offer it to someone else.
+
 The next time you notice an Autistic behavior — yours or someone else’s — pause before naming it good or bad.
 
 Ask:
@@ -136,19 +138,7 @@ Just one possibility.
 
 Maybe sound.
 
-Maybe fear.
-
-Maybe pain.
-
-Maybe confusion.
-
-Maybe loss of control.
-
 Maybe too many demands.
-
-Maybe not enough recovery.
-
-Maybe a need that has been ignored too long.
 
 The goal is not to excuse everything.
 
