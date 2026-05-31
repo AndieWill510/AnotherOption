@@ -229,12 +229,48 @@ Purpose:
 - introduce the first human node in the community infrastructure arc;
 - mark Peter as a real person, not a symbol;
 - show ordinary encounter becoming structural consequence;
+- show the exile-question every Autistic person knows;
 - preserve dignity and consent for future disclosure.
 
 Core beat:
 
 ```text
-I met Peter, owner of Maya, on Memorial Day 2024.
+Peter asked me what I was doing there.
+
+It is an ordinary question.
+
+It is also a question every Autistic person knows:
+
+Why are you here?
+Why do you think you can be here?
+Why do you think you belong here?
+Or anywhere?
+```
+
+Response beat:
+
+```text
+My answer was armor and angst and bluster and dissociation.
+
+I told him I was looking for a place to live.
+
+I was not.
+```
+
+Turn:
+
+```text
+He spent the next hour finding me a place to live.
+```
+
+Arc consequence:
+
+```text
+A weekend trip became the most important weekend road trip of my life.
+
+I lived there almost full time for the next year and a half.
+
+And they adopted me.
 ```
 
 Disclosure notes:
@@ -263,7 +299,19 @@ Purpose:
 Core beat:
 
 ```text
-A large group of neurodivergent friends in Charlottesville adopted me.
+The entire Maya family adopted me.
+```
+
+Texture:
+
+```text
+It was a Cheers bar.
+
+Everyone knew my name.
+
+And it only took a couple of months.
+
+For a 53-year-old "guy," that might as well have been an instant.
 ```
 
 Safety / tone guardrail:
