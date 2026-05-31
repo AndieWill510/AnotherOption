@@ -28,6 +28,10 @@ Safety: low direct crisis content; shame / ableism content present
 
 ## Doorway
 
+Now we take the saxophone story out of the band room and hand it to the reader as a concept.
+
+The first mercy is not what happened to me. It is what the story makes available to you.
+
 The first mercy is not advice.
 
 It is not a technique.
