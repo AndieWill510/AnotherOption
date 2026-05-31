@@ -1,0 +1,159 @@
+<!--
+Copyright 2026 Kevin "Andie" Williams
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
+# Option 1.2 — The Broken Tool
+
+Author: Kevin "Andie" Williams  
+Status: Doorway pilot draft  
+Project: You Have Another Option  
+Source: FrontMatter/001-prelude-the-saxophone.md; Chapters/010.md  
+Safety: low direct crisis content; shame / ableism content present
+
+---
+
+## Doorway
+
+The hardest part of the saxophone story is not that the mouthpiece was cracked.
+
+The hardest part is that nobody checked it sooner.
+
+Not the adults.
+
+Not the teacher at first.
+
+Not the other students.
+
+Not me.
+
+I did what children do. I trusted the world’s explanation. If the music was wrong, I must be wrong. If the notes would not come, I must not be trying correctly. If the room treated me like last place, maybe last place was where I belonged.
+
+A broken tool becomes dangerous when everyone agrees to call it your failure.
+
+## Pressure
+
+Autistic people are handed broken tools all the time.
+
+We are given social rules that are vague, shifting, contradictory, and punished differently depending on who breaks them.
+
+We are told to make eye contact, but not too much.
+
+To be honest, but not that honest.
+
+To participate, but not dominate.
+
+To be quiet, but not withdrawn.
+
+To advocate for ourselves, but not make anyone uncomfortable.
+
+To act natural, while performing a version of natural that was never natural for us.
+
+Then, when the tool fails, the explanation comes quickly:
+
+You are too sensitive.
+
+You are too intense.
+
+You are rude.
+
+You are difficult.
+
+You are not trying.
+
+You are the problem.
+
+That explanation can sink deep into a person’s body. It can become posture. It can become insomnia. It can become burnout. It can become the voice that speaks before you do.
+
+## Reframe
+
+A broken tool is not neutral.
+
+It teaches the wrong lesson.
+
+The cracked mouthpiece did not only prevent music. It taught shame. It taught me to distrust effort. It taught me that trying might still end in humiliation.
+
+Many Autistic people have been trained this way by schools, families, workplaces, clinics, relationships, and ordinary rooms full of ordinary people who never stop to ask whether the tool is cracked.
+
+This book begins by asking that question.
+
+Not because every problem is external.
+
+Not because effort never matters.
+
+Not because we never have skills to learn.
+
+But because a life cannot be built honestly if the first assumption is that the Autistic person is the defect.
+
+Sometimes the tool is wrong.
+
+Sometimes the room is wrong.
+
+Sometimes the standard is wrong.
+
+Sometimes the help is harmful.
+
+Sometimes the problem is not the sound you made.
+
+Sometimes the problem is what you were asked to play through.
+
+## Move
+
+Pick one recurring struggle.
+
+Keep it small.
+
+Maybe it is meetings. Maybe parties. Maybe phone calls. Maybe family dinners. Maybe doctors. Maybe school. Maybe the grocery store. Maybe the part of the day when everyone expects speech and your body is already out of words.
+
+Write one sentence:
+
+> The tool might be broken here.
+
+Then list three possible tools involved.
+
+For example:
+
+- the room;
+- the schedule;
+- the communication expectation;
+- the lighting;
+- the noise;
+- the social rule;
+- the amount of transition time;
+- the assumption that speech is always available;
+- the assumption that discomfort means unwillingness.
+
+Do not fix it all today.
+
+Just move the question from:
+
+> What is wrong with me?
+
+To:
+
+> What tool am I being asked to use?
+
+That shift matters.
+
+It may be the first honest measurement.
+
+## Mercy
+
+You are allowed to inspect the instrument.
+
+You are allowed to ask whether the room, the rule, the treatment, the schedule, the demand, or the story about you is cracked.
+
+You are allowed to stop calling every broken tool your failure.
