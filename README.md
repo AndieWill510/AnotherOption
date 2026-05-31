@@ -72,6 +72,18 @@ And when the reader cannot hold a whole plan, the book offers something smaller:
 > Tiny door.  
 > Just a door.
 
+The book should not use poetic force to carry a scientific or clinical claim that has not yet been supported.
+
+Beautiful language can hold a reader.
+
+It cannot launder uncertainty.
+
+The book should also resist tedium masquerading as thoroughness.
+
+No more than three examples should be used to make a point in reader-facing prose unless there is a deliberate, documented reason.
+
+Long lists belong in evidence stores, appendices, inventories, holding files, or review packets — not inside a Tiny Door unless the list itself is the point.
+
 ---
 
 ## What This Book Is For
@@ -185,6 +197,9 @@ The book should preserve these commitments:
 - No false certainty.
 - No reader-blaming.
 - No clinical overclaiming.
+- No poetic force carrying unsupported claims.
+- No tedium masquerading as thoroughness.
+- No more than three examples to make a point.
 - No making the reader carry more than the chapter can help them hold.
 
 ---
@@ -246,6 +261,8 @@ If a chapter contains multiple major ideas, it should probably be split.
 If a chapter cannot be read in one private pause, it should be challenged.
 
 If a chapter explains more than it helps, it should be repaired.
+
+If a chapter needs more than three examples to make a point, either the point is too broad or the examples belong somewhere else.
 
 ---
 
