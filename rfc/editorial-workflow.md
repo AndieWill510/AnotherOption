@@ -20,7 +20,7 @@ SPDX-License-Identifier: Apache-2.0
 
 Author: Kevin "Andie" Williams  
 Prepared by: G  
-Status: Draft v0.1  
+Status: Draft v0.2  
 Project: You Have Another Option  
 Repository: AnotherOption  
 Date: 2026-05-30
@@ -160,45 +160,59 @@ Andie should mostly receive batches, not fragments.
 
 ---
 
-## 8. Current Sprint
+## 8. Move Section Rule
+
+Move sections should usually contain:
+
+```text
+one leading question or action
+one to two examples
+```
+
+Five examples is a hard ceiling, not a target.
+
+Lists beyond five items violate the Bathroom Chapter Rule in spirit even when the word count is technically short.
+
+When examples are useful but excessive, move them to `Holding/move-examples-bank.md` instead of deleting them.
+
+---
+
+## 9. Current Sprint
 
 Current sprint:
 
 ```text
-Doorway Pilot
+Bridge from Doorway to Stakes
 ```
 
 Source:
 
 ```text
-FrontMatter/001-prelude-the-saxophone.md
 Chapters/010.md
 README.md
-rfc/000.md
-rfc/c-challenge-adjudication-001.md
+rfc/safety-style-guide.md
+rfc/doorway-pilot-promotion.md
 ```
 
 Output target:
 
 ```text
-Draft 5 doorway Options.
+Repair and promote Options 006–008.
 ```
 
 Candidate Options:
 
 ```text
-Option 1.1 — The Saxophone
-Option 1.2 — The Broken Tool
-Option 1.3 — You Were Never Going to Make Those Notes
-Option 1.4 — The First Mercy
-Option 1.5 — Another Option
+Option 1.6 — Why This Book Exists
+Option 1.7 — The Problem Is Not Autistic Behavior
+Option 1.8 — The Number Is Not Destiny
 ```
 
-C checkpoint after the Doorway Pilot is drafted.
+C checkpoint after the Bridge Sprint is repaired.
 
 ---
 
-## 9. Current Open Decisions
+## 10. Current Open Decisions
 
 Open decisions requiring future adjudication:
 
@@ -210,12 +224,14 @@ Open decisions requiring future adjudication:
 6. Whether Autism, Inc. belongs in main path, compressed path, or companion material.
 7. Whether 60–120 Options is too large.
 8. Whether reader-facing chapters should be 12, 18, or some other number.
+9. Citation source for mortality / lifespan claims.
+10. Whether Blue Zones framing returns in back matter or evidence notes.
 
-Do not block Doorway Pilot on these decisions.
+Do not block the Bridge Sprint on these decisions.
 
 ---
 
-## 10. Repo Practice
+## 11. Repo Practice
 
 Record decisions in `rfc/`.
 
@@ -223,25 +239,27 @@ Keep imported source bins in `Chapters/`.
 
 Use `FrontMatter/` for literal opening and pre-chapter material.
 
-Use future `Options/` for extracted reader-facing units after pilot approval.
+Use `Options/` for extracted reader-facing units.
+
+Use `Holding/` for useful material removed from reader-facing Options.
 
 Do not overwrite source imports while architecture is unstable.
 
 ---
 
-## 11. Momentum Guardrail
+## 12. Momentum Guardrail
 
 If the team starts looping on architecture, return to the smallest concrete next move.
 
 Current smallest concrete next move:
 
-> Draft the Doorway Pilot from the saxophone prelude.
+> Repair and promote the Bridge Sprint.
 
 The book moves by making one reader safer at a time.
 
 ---
 
-## 12. Status
+## 13. Status
 
 This cadence is provisional.
 
