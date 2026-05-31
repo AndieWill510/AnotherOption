@@ -32,25 +32,17 @@ Safety: low direct crisis content; grief / validation content present
 
 The saxophone story has one more room in it.
 
-This Option is not about the discovery itself. It is about the grief that becomes visible after the crack is found.
+This Option is not about the discovery itself.
 
-That sentence can break your heart.
+It is about the grief that becomes visible after the crack is found.
 
-It can also give your heart back.
+When my tutor said it, he was talking about a saxophone mouthpiece.
 
-When my tutor said it, he was talking about a saxophone mouthpiece. He was talking about brass and reed and pressure and sound. He was talking about a physical crack in a physical tool.
-
-But my body heard something larger.
-
-It heard:
+But my body heard something larger:
 
 You were not lazy.
 
 You were not careless.
-
-You were not musically cursed.
-
-You were not failing because you lacked desire.
 
 You were trying to do something that could not be done with the tool you had been given.
 
@@ -62,17 +54,17 @@ Not imaginary.
 
 Not dramatic.
 
-Not overblown.
-
 Unnecessary.
 
-You can grieve the years you spent trying to make impossible notes. You can grieve the chances you lost while people misread you. You can grieve the relationships that did not form, the rooms where you were humiliated, the teachers who did not check, the doctors who did not listen, the relatives who made it about attitude, the friends who thought trying harder would solve what trying harder could never solve.
+You can grieve the years you spent trying to make impossible notes.
+
+You can grieve the rooms where you were humiliated.
+
+You can grieve the people who did not check.
 
 Validation does not erase grief.
 
 Sometimes validation makes grief visible.
-
-That can be painful.
 
 But visible grief is different from hidden shame.
 
@@ -83,8 +75,6 @@ Hidden shame says:
 Visible grief says:
 
 > Something happened to me.
-
-That difference can save a life over time.
 
 ## Reframe
 
@@ -98,27 +88,19 @@ The mouthpiece.
 
 The tool.
 
-The system around the tool.
-
-The adults who did not check sooner.
-
 The room that judged the sound without understanding the instrument.
 
 This is one of the central movements of the book:
 
 > Move the failure out of the Autistic person when the failure belongs somewhere else.
 
-That does not mean Autistic people never need support, skill-building, practice, care, therapy, medicine, rest, community, or change.
+That does not mean Autistic people never need support, skill-building, care, therapy, medicine, rest, community, or change.
 
 We do.
 
 Everyone does.
 
 But help is only help when it begins with the truth.
-
-And sometimes the truth is:
-
-You were never going to make those notes under those conditions.
 
 ## Move
 
@@ -127,8 +109,6 @@ Name one thing you grieved privately that someone taught you to call failure.
 One thing.
 
 Not the whole list.
-
-Maybe it was a friendship that never formed. Maybe it was a class, a job, a room, a family role, a diagnosis, a performance, a childhood, a relationship, a body, a version of yourself you tried to become because people kept rewarding the mask.
 
 Write it plainly, if writing helps:
 
@@ -142,19 +122,7 @@ You do not have to answer perfectly.
 
 Just notice the difference.
 
-Grief says something mattered.
-
-Shame says you were the problem.
-
-Those are not the same thing.
-
 ## Mercy
-
-You may have tried very hard.
-
-You may have tried harder than anyone knew.
-
-You may have tried so hard that trying became invisible because everyone expected it from you.
 
 The fact that the notes did not come does not prove you failed.
 
