@@ -20,8 +20,8 @@ SPDX-License-Identifier: Apache-2.0
 
 Author: Kevin "Andie" Williams  
 Status: Seed vocabulary  
-Project: You Have Another Option  
-Repository: AnotherOption  
+Project: Tiny Door / You Have Another Option  
+Repository: TinyDoor  
 Date: 2026-05-30
 
 ---
@@ -96,6 +96,45 @@ For the reader at the edge, `just a door` may be enough.
 
 ---
 
+### Hidden stim / not a failed stim
+
+Status: candidate canonical vocabulary.
+
+Source:
+
+```text
+Options/027-you-can-always-stim.md
+```
+
+Working meaning:
+
+```text
+an invisible, private, compressed, or low-risk form of regulation used when visible stimming may be punished, misunderstood, unsafe, or unavailable
+```
+
+Editorial note:
+
+Preserve the core mercy:
+
+```text
+A hidden stim is not a failed stim.
+
+A tiny door is still a door.
+```
+
+This phrase supports the book's harm-reduction stance:
+
+```text
+The question is not whether you can stim.
+The question is whether the world gives you a safe channel.
+```
+
+Do not turn hidden stimming into a new compliance demand.
+
+The goal is safer access to regulation, not making Autistic bodies easier for hostile rooms to ignore.
+
+---
+
 ### Conditional tolerance with better lighting
 
 Status: candidate canonical vocabulary.
@@ -143,6 +182,6 @@ No final replacement selected here.
 
 ## 4. Status
 
-Seed updated with core culture phrase.
+Seed updated with hidden-stim vocabulary and TinyDoor metadata.
 
 Expand as vocabulary stabilizes.
