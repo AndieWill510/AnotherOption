@@ -281,7 +281,46 @@ Disclosure notes:
 
 ---
 
-### Movement 5 — Adoption by the Neurodivergent Community
+### Movement 5 — Ted Behind the Bar
+
+Working title:
+
+```text
+Ted Behind the Bar
+```
+
+Purpose:
+
+- identify Ted as the stabilizing human node in the Maya arc;
+- distinguish individual safety from generalized community;
+- show acceptance as infrastructure, not sentiment;
+- prepare the ground-under-my-feet and becoming movements.
+
+Core beat:
+
+```text
+Ted, behind the bar at Maya, was my safety net.
+
+My heartbeat.
+
+He accepted all of who and what I was.
+
+And that in turn made all that was next possible.
+```
+
+Guardrail:
+
+```text
+Ted should not be swallowed by "the Maya family" as an undifferentiated group.
+
+He is his own human node.
+
+Preserve him as person, not symbol.
+```
+
+---
+
+### Movement 6 — Adoption by the Neurodivergent Community
 
 Working title:
 
@@ -292,7 +331,7 @@ They Found Me Back
 Purpose:
 
 - show the community as felt experience;
-- move from single encounter to network;
+- move from individual nodes to network;
 - establish chosen belonging as survival infrastructure;
 - contrast conditional belonging with being received by people whose nervous systems recognized yours.
 
@@ -325,7 +364,7 @@ Show infrastructure: rides, rooms, messages, rituals, noticing, invitations, ord
 
 ---
 
-### Movement 6 — Ground Under My Feet
+### Movement 7 — Ground Under My Feet
 
 Working title:
 
@@ -356,7 +395,7 @@ Community gave me enough ground to live from.
 
 ---
 
-### Movement 7 — Becoming
+### Movement 8 — Becoming
 
 Working title:
 
@@ -410,9 +449,10 @@ Potential reader-facing Options from this section:
 Option 1.9 — Community Is Survival Infrastructure
 Option 1.10 — The First Big Family Holiday Alone
 Option 1.11 — Peter at Maya
-Option 1.12 — They Found Me Back
-Option 1.13 — Ground Under My Feet
-Option 1.14 — From That Ground, I Could Become
+Option 1.12 — Ted Behind the Bar
+Option 1.13 — They Found Me Back
+Option 1.14 — Ground Under My Feet
+Option 1.15 — From That Ground, I Could Become
 ```
 
 C checkpoint should occur after one bounded memoir cluster is drafted.
