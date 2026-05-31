@@ -122,33 +122,15 @@ Write one sentence:
 
 > The tool might be broken here.
 
-Then list three possible tools involved.
+That is the whole move.
 
-For example:
+Not a diagnosis.
 
-- the room;
-- the schedule;
-- the communication expectation;
-- the lighting;
-- the noise;
-- the social rule;
-- the amount of transition time;
-- the assumption that speech is always available;
-- the assumption that discomfort means unwillingness.
+Not a solution.
 
-Do not fix it all today.
+A pause in the old blame pattern.
 
-Just move the question from:
-
-> What is wrong with me?
-
-To:
-
-> What tool am I being asked to use?
-
-That shift matters.
-
-It may be the first honest measurement.
+You are not proving anything yet. You are creating enough room to ask a better question later.
 
 ## Mercy
 
