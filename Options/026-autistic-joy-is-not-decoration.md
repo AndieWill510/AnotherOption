@@ -132,7 +132,9 @@ Maybe texture.
 
 Let it be real even if someone else would call it small.
 
-Give it one tiny door today.
+Give it one tiny door today —
+
+or hold this as permission for when you can.
 
 ## Mercy
 
