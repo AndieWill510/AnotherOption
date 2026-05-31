@@ -58,6 +58,44 @@ Those words carry different freight.
 
 ---
 
+### Tiny door / just a door
+
+Status: core culture phrase.
+
+Source:
+
+```text
+Options/023-stimming-is-regulation.md repair; Andie adjudication
+```
+
+Working meaning:
+
+```text
+a small survivable opening that does not pretend to solve the whole crisis, but gives the reader one safe next passage
+```
+
+Editorial note:
+
+This phrase names the book's mercy practice.
+
+The book should not overpromise rescue.
+
+It should keep offering tiny doors:
+
+- one question;
+- one safer movement;
+- one place to put the body;
+- one person;
+- one room;
+- one reduced pressure;
+- one next option.
+
+A tiny door is not lesser because it is small.
+
+For the reader at the edge, `just a door` may be enough.
+
+---
+
 ### Conditional tolerance with better lighting
 
 Status: candidate canonical vocabulary.
@@ -105,6 +143,6 @@ No final replacement selected here.
 
 ## 4. Status
 
-Seed updated with community-arc vocabulary.
+Seed updated with core culture phrase.
 
 Expand as vocabulary stabilizes.
