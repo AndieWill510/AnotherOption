@@ -1,0 +1,255 @@
+<!--
+Copyright 2026 Kevin "Andie" Williams
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
+# Editorial Workflow Cadence
+
+Author: Kevin "Andie" Williams  
+Prepared by: G  
+Status: Draft v0.1  
+Project: You Have Another Option  
+Repository: AnotherOption  
+Date: 2026-05-30
+
+---
+
+## 1. Purpose
+
+This document defines how Andie, G, and C proceed without bogging down.
+
+The goal is momentum with challenge.
+
+The project needs enough governance to stay safe and coherent, but not so much ceremony that the book stops moving.
+
+---
+
+## 2. Operating Rule
+
+C reviews at checkpoints, not continuously.
+
+G orchestrates forward motion.
+
+Andie adjudicates only the decisions that matter.
+
+The repo carries memory.
+
+---
+
+## 3. Roles
+
+### Andie
+
+- author;
+- witness;
+- final adjudicator;
+- decides what remains true;
+- answers authorial questions when needed;
+- does not have to line-edit everything in real time.
+
+### G
+
+- orchestrates;
+- reads source bins;
+- proposes architecture;
+- extracts draft Options;
+- records decisions;
+- creates repo artifacts;
+- protects momentum;
+- asks Andie only for high-value decisions.
+
+### C
+
+- checkpoint challenger;
+- coherence reviewer;
+- safety reviewer;
+- scientific humility flagger;
+- tokenization / overreach / reader-shame detector;
+- does not fine-edit prose unless specifically asked.
+
+---
+
+## 4. Cadence
+
+Use a four-step loop:
+
+```text
+1. G advances one bounded unit.
+2. C challenges at a checkpoint.
+3. G adjudicates and records accepted / deferred / rejected findings.
+4. Andie resolves only the decisions requiring authorship.
+```
+
+Do not send every small drafting move to C.
+
+Do not ask Andie to decide every mechanical edit.
+
+Do not rewrite the whole book in one pass.
+
+---
+
+## 5. Bounded Units
+
+A bounded unit may be:
+
+- one doorway pilot;
+- one reader-facing chapter;
+- one source-bin cluster;
+- 3–7 Options;
+- one safety-sensitive topic;
+- one architecture repair.
+
+Default sprint size:
+
+```text
+3–7 Options or one architecture repair
+```
+
+---
+
+## 6. When to Ask C
+
+Ask C after:
+
+- a new architecture revision;
+- a completed pilot section;
+- any safety-sensitive Option cluster;
+- any major placement decision;
+- any treatment of suicide, self-harm, abuse, sex, ABA trauma, psychosis, addiction, homelessness, or children;
+- any claim cluster involving lifespan, mortality, medical treatment, or clinical advice.
+
+Do not ask C after:
+
+- every title change;
+- every small prose edit;
+- every formatting change;
+- every source-bin read;
+- every internal note.
+
+---
+
+## 7. When to Ask Andie
+
+Ask Andie when the decision involves:
+
+- lived truth;
+- tone boundary;
+- what must never be softened;
+- what must never become reader-blame;
+- what material feels sacred and must remain;
+- what material can be cut or held;
+- whether a phrase is canonical;
+- whether a C challenge should override G's instinct.
+
+Do not ask Andie to approve every extraction.
+
+Andie should mostly receive batches, not fragments.
+
+---
+
+## 8. Current Sprint
+
+Current sprint:
+
+```text
+Doorway Pilot
+```
+
+Source:
+
+```text
+FrontMatter/001-prelude-the-saxophone.md
+Chapters/010.md
+README.md
+rfc/000.md
+rfc/c-challenge-adjudication-001.md
+```
+
+Output target:
+
+```text
+Draft 5 doorway Options.
+```
+
+Candidate Options:
+
+```text
+Option 1.1 — The Saxophone
+Option 1.2 — The Broken Tool
+Option 1.3 — You Were Never Going to Make Those Notes
+Option 1.4 — The First Mercy
+Option 1.5 — Another Option
+```
+
+C checkpoint after the Doorway Pilot is drafted.
+
+---
+
+## 9. Current Open Decisions
+
+Open decisions requiring future adjudication:
+
+1. Final term for MD / self-harm death / preventable Autistic death.
+2. Whether `IEMS` survives as internal-only language.
+3. Whether Part IV splits into two parts.
+4. How Part VI avoids tokenization.
+5. Where sex-positive Autism belongs in the reader path.
+6. Whether Autism, Inc. belongs in main path, compressed path, or companion material.
+7. Whether 60–120 Options is too large.
+8. Whether reader-facing chapters should be 12, 18, or some other number.
+
+Do not block Doorway Pilot on these decisions.
+
+---
+
+## 10. Repo Practice
+
+Record decisions in `rfc/`.
+
+Keep imported source bins in `Chapters/`.
+
+Use `FrontMatter/` for literal opening and pre-chapter material.
+
+Use future `Options/` for extracted reader-facing units after pilot approval.
+
+Do not overwrite source imports while architecture is unstable.
+
+---
+
+## 11. Momentum Guardrail
+
+If the team starts looping on architecture, return to the smallest concrete next move.
+
+Current smallest concrete next move:
+
+> Draft the Doorway Pilot from the saxophone prelude.
+
+The book moves by making one reader safer at a time.
+
+---
+
+## 12. Status
+
+This cadence is provisional.
+
+It should be revised when it starts creating friction.
+
+Until then:
+
+> G moves.  
+> C challenges checkpoints.  
+> Andie adjudicates truth.  
+> The repo remembers.
