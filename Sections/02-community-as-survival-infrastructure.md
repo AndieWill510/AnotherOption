@@ -394,7 +394,87 @@ This is an infrastructure expansion scene: one person invites, one space opens, 
 
 ---
 
-### Movement 7 — Adoption by the Neurodivergent Community
+### Movement 7 — OMC: A Second Bite at the Apple
+
+Working title:
+
+```text
+OMC: A Second Bite at the Apple
+```
+
+Purpose:
+
+- clarify that OMC is not a generic old man's club but a Charlottesville legend and private invitation-only men's Stammtisch;
+- show OMC as the second social life after adolescent belonging was violently stolen;
+- connect Autistic isolation, ostracization, and political assassination to the need for a second bite at the apple;
+- establish OMC as psychic, communal, and spiritual foundation for cocoon / chrysalis / becoming;
+- preserve the line that half a dozen fathers gave birth over bourbon.
+
+OMC identity beat:
+
+```text
+To the people of Charlottesville for whom this is both legend and private invitation only, it is OMC.
+
+A men's Stammtisch.
+```
+
+Lost adolescence beat:
+
+```text
+I had a large group of friends.
+
+At fifteen.
+
+And they were violently stolen from me, as they so often are for Autistic people if that ever happens at all.
+
+The isolation.
+
+The ostracization.
+
+The political assassination.
+```
+
+Second bite beat:
+
+```text
+OMC was a second bite at the apple.
+
+Right when I needed it most.
+
+And more than I could possibly know.
+```
+
+Chrysalis beat:
+
+```text
+That Stammtisch formed a psychic, communal, and spiritual foundation for a cocoon to form.
+
+A chrysalis.
+
+Something very old and yet very new could emerge.
+```
+
+Birth beat:
+
+```text
+Those half dozen fathers gave birth.
+
+Over bourbon.
+```
+
+Guardrail:
+
+```text
+Do not flatten OMC into nostalgia, novelty, or male validation.
+Do not erase the private / legendary / invitation-only nature of the group.
+Do not make bourbon the point; the point is ritual, table, witnessing, and unexpected fatherhood.
+Do not over-polish the paradox: fathers gave birth.
+That is the live wire.
+```
+
+---
+
+### Movement 8 — Adoption by the Neurodivergent Community
 
 Working title:
 
@@ -438,7 +518,7 @@ Show infrastructure: rides, rooms, messages, rituals, noticing, invitations, ord
 
 ---
 
-### Movement 8 — Ground Under My Feet
+### Movement 9 — Ground Under My Feet
 
 Working title:
 
@@ -469,7 +549,7 @@ Community gave me enough ground to live from.
 
 ---
 
-### Movement 9 — Becoming
+### Movement 10 — Becoming
 
 Working title:
 
@@ -525,9 +605,10 @@ Option 1.10 — The First Big Family Holiday Alone
 Option 1.11 — Peter at Maya
 Option 1.12 — Ted Behind the Bar
 Option 1.13 — Gina and the Old Man's Club
-Option 1.14 — They Found Me Back
-Option 1.15 — Ground Under My Feet
-Option 1.16 — From That Ground, I Could Become
+Option 1.14 — OMC: A Second Bite at the Apple
+Option 1.15 — They Found Me Back
+Option 1.16 — Ground Under My Feet
+Option 1.17 — From That Ground, I Could Become
 ```
 
 C checkpoint should occur after one bounded memoir cluster is drafted.
