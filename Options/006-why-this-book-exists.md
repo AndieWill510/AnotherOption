@@ -114,23 +114,9 @@ Not your whole life.
 
 One part.
 
-A room.
+Maybe a room.
 
-A morning.
-
-A meeting.
-
-A transition.
-
-A meal.
-
-A phone call.
-
-A bedtime.
-
-A conversation.
-
-A recurring demand that takes more from you than people can see.
+Maybe a recurring demand that takes more from you than people can see.
 
 Do not force an answer.
 
