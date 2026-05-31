@@ -28,31 +28,23 @@ Safety: stimming / hostile environments / harm-reduction frame; no method detail
 
 ## Doorway
 
-A river does not stop being water because someone builds a wall in front of it.
+Picture a staff meeting where the lights are too bright, the agenda changed without warning, and someone keeps saying, "Quick question," before adding another demand.
 
-It looks for a channel.
+You are not melting down.
 
-Around.
+You are not fine either.
 
-Under.
+Your foot starts pressing into the floor under the table.
 
-Through the smallest crack.
+Your thumb finds the edge of your notebook.
 
-A nervous system does something similar.
+You read the same sentence on the handout three times, not because you care about the sentence, but because your eyes need somewhere predictable to land.
 
-When pressure rises, it looks for movement.
+Nobody else sees any of that.
 
-When fear rises, it looks for rhythm.
+That does not make it fake.
 
-When joy rises, it looks for expression.
-
-When the room says no, the body still asks:
-
-> Where can this go?
-
-That is not defiance first.
-
-It is regulation first.
+It means your body found a channel small enough for the room.
 
 ## Pressure
 
@@ -83,6 +75,12 @@ Not because visible stimming is wrong.
 Not because the hostile room is right.
 
 Because survival sometimes means finding the version of truth that can pass through the room without getting you harmed.
+
+That may look like standing near the exit at a family dinner.
+
+It may look like taking the long way to the bathroom at school so you can walk off pressure without having to explain yourself.
+
+It may look like keeping one hand in a coat pocket during a tense appointment because a visible hand movement might be misread.
 
 That is a terrible thing to have to learn.
 
@@ -136,11 +134,15 @@ They make one moment more survivable.
 
 ## Move
 
+Pick one current or recent room.
+
+Not every room.
+
+One room.
+
 Ask:
 
-> What channel is safest here?
-
-One channel.
+> What channel is safest there?
 
 Visible if safe.
 
@@ -148,12 +150,14 @@ Private if needed.
 
 Tiny if tiny is what the room allows.
 
-Do not confuse small with pointless.
+Write it down if that helps.
+
+Or just remember it for next time.
 
 ## Mercy
 
 You should not have to become a river under a wall.
 
-But if you have learned how, that is not failure.
+But if you have learned how to find one crack in the wall, that is not failure.
 
-That is a body keeping faith with life.
+It is information for getting through this room.
