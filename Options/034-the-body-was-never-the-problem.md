@@ -32,8 +32,6 @@ A person learns body shame in small rooms.
 
 A hand is moved away from a sleeve cuff.
 
-A rocking chair is taken away because the rocking is "too much."
-
 A teenager is told their crush is a phase, a problem, a threat, or a joke.
 
 A child asks a plain body question and the adult's face changes before the answer arrives.
@@ -54,29 +52,11 @@ Look here.
 
 Sit still.
 
-Smile normally.
-
-Do not make that sound.
-
-Do not talk about that.
-
-Do not ask that.
-
-Do not want that.
-
-Do not be curious there.
-
-Do not be too much in public.
-
-Do not be too much in private either.
-
 Some of this gets called manners.
 
 Some gets called therapy.
 
 Some gets called protection.
-
-Some gets called growing up.
 
 But the body may receive it as one long lesson:
 
@@ -84,7 +64,7 @@ But the body may receive it as one long lesson:
 
 That lesson is dangerous.
 
-It can make a person less able to know what they feel, what they want, what they do not want, what feels safe, what feels wrong, and when they are allowed to leave.
+It can make a person less able to know what they feel, what they want, what feels safe, and when they are allowed to leave.
 
 ## Reframe
 
@@ -92,15 +72,13 @@ The body was never the problem.
 
 Not the Autistic body.
 
-Not the body that rocks, flaps, freezes, paces, wants pressure, avoids touch, seeks touch, asks questions, has desire, has no desire, changes, refuses, consents, withdraws, or needs time to know.
+Not the body that moves, freezes, wants pressure, avoids touch, seeks touch, asks questions, refuses, consents, withdraws, or needs time to know.
 
 The problem is a culture that treats bodies as acceptable only when they are easy to manage.
 
 A body is not bad because it has signals.
 
 A body is not shameful because it has needs.
-
-A body is not suspicious because it does not perform normal correctly.
 
 Consent begins here:
 
@@ -117,10 +95,6 @@ Tense jaw.
 Cold hands.
 
 Leaning away.
-
-Wanting pressure.
-
-Wanting space.
 
 Do not decide what it means yet.
 
