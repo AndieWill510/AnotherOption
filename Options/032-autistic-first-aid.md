@@ -30,12 +30,6 @@ Safety: overload recovery / shutdown / meltdown / first-aid frame; no method det
 
 A first-aid kit does not ask whether you deserved the cut.
 
-It has gauze.
-
-It has antiseptic.
-
-It has tape.
-
 It has the boring, practical things a body needs after something happens.
 
 Autistic overload needs the same kind of respect.
@@ -60,23 +54,19 @@ Explain.
 
 Reassure everyone.
 
-Prove you did not mean it that way.
-
-Make the room comfortable again.
-
 But an overloaded nervous system may need first aid before diplomacy.
 
-That can be hard to accept if you were trained to treat other people's comfort as the emergency.
+That can be hard if you were trained to treat other people's comfort as the emergency.
 
 You may feel rude for leaving.
 
-You may feel lazy for lying down.
+You may feel childish for needing a dark room.
 
-You may feel childish for needing a blanket, a dark room, a stim toy, a familiar show, a snack, headphones, pressure, silence, or sleep.
+You may feel lazy for lying down.
 
 But first aid is not childish.
 
-It is what comes after injury, strain, shock, or overload.
+It is what comes after strain, shock, or overload.
 
 ## Reframe
 
@@ -86,8 +76,6 @@ It is a recovery sequence.
 
 Get somewhere safer.
 
-Lower the light.
-
 Lower the sound.
 
 Loosen the demand.
@@ -96,23 +84,13 @@ Drink water if you can.
 
 Eat something simple if you can.
 
-Use pressure if pressure helps.
-
-Stim safely if stimming helps.
-
 Stop talking if talking makes it worse.
-
-Sleep if sleep is what the body can do.
 
 None of this has to look impressive.
 
 It has to be reachable.
 
 That is the test.
-
-Not perfect regulation.
-
-Reachable care.
 
 ## Move
 
@@ -123,10 +101,6 @@ One.
 Headphones.
 
 Water bottle.
-
-Snack.
-
-Dark room.
 
 Scripted text: "I need a quiet reset. I will reply later."
 
