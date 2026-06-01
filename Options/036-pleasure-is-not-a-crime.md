@@ -114,4 +114,4 @@ If that is too much today, just name the pleasure.
 
 A stayable life needs more than less pain.
 
-It needs lawful, consenting, safe ways to feel good inside your own body.
+It needs boundaried, consenting, safe ways to feel good inside your own body.
