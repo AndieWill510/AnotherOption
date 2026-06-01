@@ -32,8 +32,6 @@ Autistic joy is not cute extra frosting on the survival cake.
 
 It is not a reward for behaving well enough.
 
-It is not what we get to discuss after all the serious things are handled.
-
 Joy is one of the serious things.
 
 The body knows this before the culture does.
@@ -43,10 +41,6 @@ A person hears the right song and starts moving.
 A hand finds the right texture.
 
 A mind locks onto the beloved subject and the room becomes brighter.
-
-A voice repeats the phrase because the phrase feels good in the mouth.
-
-A person flaps, rocks, paces, hums, sorts, lines up, dances, builds, collects, reads, researches, watches, notices, returns.
 
 Not because they are broken.
 
@@ -58,25 +52,15 @@ Too many Autistic people are taught that our joy is embarrassing.
 
 Too much.
 
-Too intense.
-
 Too childish.
 
-Too repetitive.
-
 Too weird.
-
-Too obvious.
-
-Too inconvenient.
 
 So we learn to make joy smaller.
 
 We lower the volume.
 
 We hide the movement.
-
-We pretend not to care as much as we care.
 
 We ration delight so nobody uses it against us.
 
@@ -85,8 +69,6 @@ Then people wonder why we are exhausted.
 A life without safe access to joy is not neutral.
 
 It is deprivation.
-
-And deprivation has a cost.
 
 ## Reframe
 
@@ -100,25 +82,11 @@ Sometimes it needs a safe path for the right feeling.
 
 Autistic joy can be that path.
 
-Not always.
-
-Not for every person in the same way.
-
 Not as a substitute for care, medication, accommodation, food, sleep, housing, community, or safety.
 
 But joy belongs in the survival architecture.
 
 Joy gives the body evidence that life is not only demand.
-
-Joy gives the mind something to return to besides dread.
-
-Joy gives the day a door that is not made of obligation.
-
-Joy says:
-
-> There is still something here that can meet me.
-
-That matters.
 
 ## Move
 
@@ -130,8 +98,6 @@ Maybe music.
 
 Maybe texture.
 
-Let it be real even if someone else would call it small.
-
 Give it one tiny door today —
 
 or hold this as permission for when you can.
@@ -139,7 +105,5 @@ or hold this as permission for when you can.
 ## Mercy
 
 Your joy does not have to look respectable to be worthy of protection.
-
-Your delight does not have to justify itself in clinical language.
 
 You are allowed to build survival around what brings you back to life.
