@@ -40,18 +40,6 @@ That is not the hope this book means.
 
 Hope with handles is different.
 
-It has an address.
-
-It has a phone number.
-
-It has a ride home.
-
-It has a chair in the corner.
-
-It has a quieter hour.
-
-It has a person who knows not to touch you when you are flooded.
-
 It has something the body can actually grab.
 
 ## Pressure
@@ -64,11 +52,9 @@ Things will get better.
 
 Just keep going.
 
-There is help out there.
-
 Those sentences may be true.
 
-They may also be useless in the hour when the reader cannot find the help, cannot reach the people, cannot make the phone call, cannot survive another vague promise.
+They may also be useless in the hour when the reader cannot find the help, cannot make the phone call, or cannot survive another vague promise.
 
 A hopeful sentence that does not change access can become one more demand.
 
@@ -77,10 +63,6 @@ Believe harder.
 Wait longer.
 
 Need less.
-
-Do not scare us.
-
-Do not make us uncomfortable.
 
 Hope without handles can become another locked door.
 
@@ -102,19 +84,11 @@ But:
 
 Not:
 
-> I will find community.
-
-But:
-
-> I will send one message to the group that already felt a little safer.
-
-Not:
-
 > I will become resilient.
 
 But:
 
-> I will eat before the appointment so hunger is not carrying the whole room.
+> I will eat before the appointment.
 
 Hope with handles does not promise the whole future.
 
@@ -134,8 +108,6 @@ Something reachable:
 person:
 place:
 script:
-object:
-time:
 ```
 
 Fill in one line.
