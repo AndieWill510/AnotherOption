@@ -30,19 +30,15 @@ Safety: memoir / adolescent social loss / isolation / ostracization / belonging 
 
 Without the old man's club, all that was next was impossible in my life.
 
-To the people of Charlottesville for whom this is both legend and private invitation only, it is OMC.
+To the people of Charlottesville, it is OMC.
 
 A men's Stammtisch.
 
 A table.
 
-A ritual.
-
 A private grammar of belonging.
 
 Not something you apply for.
-
-Not something you earn by wanting it hard enough.
 
 Something you are invited into.
 
@@ -62,7 +58,7 @@ The ostracization.
 
 The political assassination.
 
-When an Autistic person loses a social world, we do not only lose weekends and phone calls and places to sit.
+When an Autistic person loses a social world, we do not only lose weekends and places to sit.
 
 We lose evidence.
 
@@ -72,11 +68,7 @@ Evidence that people can want us around.
 
 Evidence that the room can survive our presence.
 
-Evidence that we are not always an error in the social code.
-
-And if that evidence is stolen early enough, the absence becomes a weather system.
-
-You keep living under it.
+And if that evidence is stolen early enough, the absence becomes weather.
 
 ## Reframe
 
@@ -84,9 +76,7 @@ OMC was a second bite at the apple.
 
 Right when I needed it most.
 
-And more than I could possibly know.
-
-That Stammtisch formed a psychic, communal, and spiritual foundation for a cocoon to form.
+That Stammtisch formed a foundation for a cocoon.
 
 A chrysalis.
 
@@ -101,8 +91,6 @@ They gave birth.
 Over bourbon.
 
 Not by making me into someone else.
-
-Not by naming what was happening before I could name it.
 
 Not by deciding for me.
 
@@ -124,8 +112,4 @@ Let the evidence matter.
 
 A second social life is not a small thing.
 
-For some of us, it is resurrection by infrastructure.
-
 Sometimes a table becomes a cocoon.
-
-Sometimes half a dozen fathers give birth.
