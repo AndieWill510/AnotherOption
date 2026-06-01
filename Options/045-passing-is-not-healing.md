@@ -22,7 +22,7 @@ Author: Kevin "Andie" Williams
 Status: Institutional harm / evidence-bounded draft  
 Project: Tiny Door / You Have Another Option  
 Source: rfc/evidence-aba-history-map.md; rfc/evidence-aba-history-c-challenge-adjudication.md  
-Evidence: Cluster F — Passing Is Not Healing; Ne'eman 2021 primary-source fetch required before external release  
+Evidence: Cluster F — Passing Is Not Healing; Ari Ne'eman, "When Disability Is Defined by Behavior, Outcome Measures Should Not Promote 'Passing,'" AMA Journal of Ethics, 2021; primary source verified 2026-05-31  
 Safety: institutional harm / passing / masking / intervention goals; no trauma spectacle; no method detail
 
 ---
@@ -69,7 +69,7 @@ A person can pass and still be losing contact with themselves.
 
 ## Reframe
 
-Disability-rights critics have argued that outcome measures should not treat passing as the proof that an intervention helped.
+Ari Ne'eman argues in the *AMA Journal of Ethics* that when disability is defined by behavior, outcome measures should not promote passing.
 
 That matters here.
 
