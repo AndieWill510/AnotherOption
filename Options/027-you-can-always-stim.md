@@ -28,7 +28,7 @@ Safety: stimming / hostile environments / policing / harm-reduction frame; no me
 
 ## Doorway
 
-You can always stim.
+You can always find some way to stim.
 
 Always.
 
@@ -37,10 +37,6 @@ Even when the room forbids it.
 Even when your family calls it embarrassing.
 
 Even when the police might misread your body before they understand your fear.
-
-Even when it might get you hurt.
-
-Even when it might get you killed.
 
 That does not mean the world is safe.
 
