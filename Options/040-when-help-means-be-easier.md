@@ -90,8 +90,6 @@ They may happen in the same building.
 
 But they do not point toward the same future.
 
-Tiny Door begins this section by refusing to confuse the two.
-
 ## Move
 
 When someone calls something help, ask:
