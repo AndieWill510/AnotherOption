@@ -38,12 +38,6 @@ It is a practical fact.
 
 I needed something to do.
 
-That is one of the least romantic sentences in the world.
-
-It is also one of the most honest.
-
-Sometimes survival does not begin with revelation.
-
 Sometimes survival begins with needing the day not to eat you alive.
 
 ## Pressure
@@ -52,7 +46,7 @@ Holidays can make absence loud.
 
 They can turn ordinary loneliness into architecture.
 
-Everyone else seems to have a table, a plan, a tradition, a grill, a group text, a car full of people, a reason to be expected somewhere.
+Everyone else seems to have a table, a plan, a group text.
 
 And you have time.
 
@@ -78,25 +72,17 @@ We know what it is to be blamed for something that has nothing to do with us.
 
 We know what it is to walk toward a room that has already decided something about us.
 
-We know what it is to carry a history other people simplified before we arrived.
-
 So I went.
 
 Not because I was brave.
 
 Not because I was healed.
 
-Not because I had a plan that deserved a movie soundtrack.
-
 I went because the day needed somewhere to put me.
 
 This is one version of another option.
 
 Not a grand solution.
-
-Not a cure.
-
-Not a triumph.
 
 A motion.
 
@@ -119,10 +105,6 @@ Not forever.
 Let small motion count.
 
 ## Mercy
-
-You do not have to know what the road is becoming before you take it.
-
-A weekend trip can still be a weekend trip.
 
 A distraction can still be mercy.
 
