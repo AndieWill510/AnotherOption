@@ -120,7 +120,11 @@ Notice the difference in your body.
 
 ## Mercy
 
-I found my birth home. it gave me nourishment to launch. 
+That okay changed the shape of what staying alive could look like.
+
+I found my birth home.
+
+It gave me nourishment to launch.
 
 And I needed to leave home and make community with other trans people.
 
