@@ -36,10 +36,6 @@ Even when the room forbids it.
 
 Even when your family calls it embarrassing.
 
-Even when the school calls it behavior.
-
-Even when the workplace calls it unprofessional.
-
 Even when the police might misread your body before they understand your fear.
 
 Even when it might get you hurt.
@@ -52,15 +48,9 @@ It means the body keeps looking for a way to live.
 
 ## Pressure
 
-When people say an Autistic person cannot stim, they usually mean something narrower.
-
-They mean:
+When people say an Autistic person cannot stim, they usually mean:
 
 > You cannot stim in a way other people notice.
-
-Or:
-
-> You cannot stim in a way that costs anyone else comfort, control, reputation, authority, or ease.
 
 Or:
 
@@ -72,8 +62,6 @@ It adapts.
 
 It hides.
 
-It compresses.
-
 It moves the signal somewhere smaller.
 
 A thumb against a seam.
@@ -81,16 +69,6 @@ A thumb against a seam.
 A toe pressing inside a shoe.
 
 A phrase repeated silently.
-
-A rhythm counted behind the teeth.
-
-A song held in the mind.
-
-A breath made square.
-
-A gaze resting on one corner of the room.
-
-A tiny pressure nobody else can see.
 
 Still regulation.
 
@@ -114,15 +92,9 @@ But:
 
 Sometimes the answer is big.
 
-Dance.
-
 Rock.
 
 Flap.
-
-Pace.
-
-Hum.
 
 Leave.
 
@@ -133,10 +105,6 @@ Still real.
 Still regulation.
 
 Still a tiny door.
-
-This is not surrender to a hostile world.
-
-It is a way to survive the room you are in while keeping faith with the body that has to get you out of it.
 
 ## Move
 
@@ -152,16 +120,10 @@ Maybe private.
 
 Maybe almost invisible.
 
-Do not rank it by whether anyone else would understand.
-
 Rank it by whether it helps you stay safer with yourself.
 
 ## Mercy
 
 You are not wrong because your body keeps searching for a door.
 
-You are not weak because the safe version has to be small today.
-
 A hidden stim is not a failed stim.
-
-A tiny door is still a door.
