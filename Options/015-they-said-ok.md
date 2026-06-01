@@ -32,29 +32,25 @@ And they did exactly that.
 
 They gave birth.
 
-Not metaphorically enough to be safe from ridicule.
-
 Not literally enough to be simple.
 
-They gave birth in the way a circle can give birth when it holds steady around something becoming true.
+Not metaphorically enough to be safe from ridicule.
+
+They gave birth in the way a circle can hold steady around something becoming true.
 
 First, I came out as bi.
 
-The thing my family member had crushed early in my marriage came back with me into the room.
+A family member's old line came back with me into the room:
 
 > "Bisexuals are indecisive vegetarians."
 
 That horrible line.
 
-That accursed line of post-Stonewall reasoning that said only some people are legible and some are not.
+That line said only some people are legible.
 
-Some are legitimate and some are not.
+Some are legitimate.
 
 Some get to live in the light.
-
-Others must live in the closet, even when we do not have closets anymore.
-
-Or haven't you heard?
 
 ## Pressure
 
@@ -64,21 +60,13 @@ They move.
 
 They become marriages where only part of you is permitted.
 
-They become families where your truth is treated as a threat to the story everyone else prefers.
+They become families where your truth is treated as a threat.
 
-They become communities that can say pride and still punish ambiguity.
-
-They become rooms where bisexuality is treated like indecision, appetite, confusion, betrayal, unseriousness, or failure to choose a side.
-
-They become the old legitimacy machine wearing better clothes.
-
-Non-Autistic people are treated as legitimate and allowed to live in the light.
-
-Autistic people are asked to prove they understand the light correctly before anyone lets them stand in it.
+They become rooms where bisexuality is treated like confusion, betrayal, or failure to choose a side.
 
 Queer and trans Autistic people know this double bind.
 
-You can be told that your sexuality is not real enough, your gender is not legible enough, your Autism is not respectable enough, your pain is not clear enough, and your life is not simple enough for other people to defend.
+You can be told that your sexuality is not real enough, your gender is not legible enough, and your Autism is not respectable enough.
 
 So you learn to ration truth.
 
@@ -88,7 +76,7 @@ Until one day you cannot.
 
 I told them I was bi.
 
-The OMC, and Ted, and Peter, and Gina all said: okay.
+The OMC, Ted, Peter, and Gina all said: okay.
 
 All good.
 
@@ -102,23 +90,7 @@ That is queer liberation.
 
 Not as slogan.
 
-Not as brand.
-
-Not as a month on a calendar.
-
 As a chorus of people refusing to make your truth an emergency.
-
-C said the book needed more than one voice.
-
-A chorus.
-
-And I built one.
-
-Or did they build me?
-
-Did I dream the dream, or did the dream dream me?
-
-As Autistic people, the biggest gift we can give each other is to not collapse uncertainty too quickly.
 
 Maybe I found them.
 
@@ -129,8 +101,6 @@ Maybe belonging is not a door that opens only one way.
 They said okay.
 
 They said okay.
-
-When literally no one in my miserable life ever had.
 
 They said okay.
 
@@ -150,18 +120,8 @@ Notice the difference in your body.
 
 ## Mercy
 
-My desperate attempt to find distraction in a town with two UNESCO World Heritage Sites paid off.
-
-And kept paying off.
-
-And kept paying off.
-
 I found home.
 
 Or rather, I found a home to form in, and then one to leave so I could make community with other trans people.
 
 But I could have stayed there forever.
-
-I may retire there still.
-
-Or maybe join Gina in the Caribbean.
