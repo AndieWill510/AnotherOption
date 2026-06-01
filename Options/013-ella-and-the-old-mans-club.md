@@ -68,7 +68,7 @@ It was Coach's.
 
 Oh hell yes.
 
-That decision, and meeting Lee, would prove fateful in the most delicious way.
+That decision, and meeting Dave, would prove fateful in the most delicious way.
 
 Dave invited me to join the old man's club.
 
