@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.12 — Ted Behind the Bar
+# Option 1.12 — Sam Behind the Bar
 
 Author: Kevin "Andie" Williams  
 Status: Community section memoir draft  
@@ -30,11 +30,11 @@ Safety: memoir / belonging / transition arc context; disclosure review required
 
 There was something I did not say yet.
 
-Ted was behind the bar at Maya.
+Sam was behind the bar at The Egyptian.
 
-Yes, Ted.
+Yes, Sam.
 
-And Ted was my safety net.
+And Sam was my safety net.
 
 My heartbeat.
 
@@ -64,7 +64,7 @@ That is conditional tolerance with better lighting.
 
 ## Reframe
 
-Ted mattered because he did not make me keep negotiating my own existence.
+Sam mattered because he did not make me keep negotiating my own existence.
 
 He accepted all of who and what I was.
 
