@@ -120,8 +120,8 @@ Notice the difference in your body.
 
 ## Mercy
 
-I found home.
+I found my birth home. it gave me nourishment to launch. 
 
-Or rather, I found a home to form in, and then one to leave so I could make community with other trans people.
+And I needed to leave home and make community with other trans people.
 
-But I could have stayed there forever.
+But part of me could have stayed there forever.
