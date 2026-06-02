@@ -21,7 +21,7 @@ SPDX-License-Identifier: Apache-2.0
 Author: Kevin "Andie" Williams  
 Status: Memoir-adjacent institutional harm draft  
 Project: Tiny Door / You Have Another Option  
-Source: Andie / C conversation; Options/046-a-good-goal-leaves-you-more-whole.md; Options/049-bad-help-teaches-bad-questions.md  
+Source: Andie / C conversation; Options/046-a-good-goal-leaves-you-more-whole.md; Options/049-bad-help-teaches-bad-questions.md; Options/050-the-fire-was-not-the-lesson.md  
 Evidence: memoir / ethical frame; no unsupported historical claim  
 Safety: personal ABA harm / family harm / repair architecture; no trauma spectacle; no method detail
 
@@ -29,21 +29,23 @@ Safety: personal ABA harm / family harm / repair architecture; no trauma spectac
 
 ## Doorway
 
-There are two ways to respond to danger.
+If a house teaches contingent value, repair cannot be another system of control.
 
-One builds cages.
+It cannot say:
 
-One builds exits.
+> Now everyone must perform safety correctly.
 
-A cage says:
+It cannot build a new measuring stick and call it liberation.
 
-> We will control this so it never scares us again.
+The answer to a cage is not a prettier cage.
 
-An exit says:
+The answer is an exit.
 
-> We will make sure nobody is trapped here without a way out.
+A way to stop.
 
-Tiny Door chooses exits.
+A way to be believed.
+
+A way to remain valuable without performing someone else's idea of worth.
 
 ## Pressure
 
@@ -64,6 +66,10 @@ It is also how protection can quietly become another trap.
 The goal is not to reproduce control in the name of repair.
 
 The goal is fewer trapped people.
+
+Children should not have to earn value by resembling neurotypical productivity.
+
+Parents should not have to earn value by producing children who satisfy the room.
 
 ## Reframe
 
@@ -101,7 +107,7 @@ The work is to make the world legible before the next person is burned.
 
 ## Move
 
-Think of one place where harm was allowed to continue because there was no exit.
+Think of one place where value became conditional.
 
 Ask:
 
