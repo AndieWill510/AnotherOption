@@ -29,37 +29,47 @@ Safety: personal ABA harm / family harm / witness protection; no trauma spectacl
 
 ## Doorway
 
-A witness is not a machine that turns pain into testimony.
+A witness is not always standing outside the harm.
 
-A witness is a person.
+Sometimes the witness is inside it too.
 
-A body.
+Watching the children be measured.
 
-A nervous system.
+Being measured.
 
-A life that still has to eat, sleep, love, work, parent, rest, and stay.
+Trying to protect them while also trying to remain valuable enough to be believed, trusted, loved, or spared.
 
-So if the story is going to be told, the witness has to be protected too.
+That kind of witness needs protection.
+
+Not later.
+
+Now.
 
 ## Pressure
 
-Trauma can turn into public utility work if nobody stops it.
+It is easy to ask the parent to testify.
 
-Tell the story again.
+What happened?
 
-Explain it again.
+What did the children hear?
 
-Make it useful.
+What did the house teach them?
 
-Make it persuasive.
+Those questions matter.
 
-Make it clean enough for people who were not there.
+But the parent in this story was not only the reporter.
 
-But a survivor is not required to become fuel for the reader's understanding.
+The parent was also inside the same logic.
 
-The story may matter.
+If the children performed correctly, that meant something about me.
 
-The witness matters too.
+If they did not, that meant something about me too.
+
+And I was still being judged directly by the same standard.
+
+Both.
+
+A witness carrying both injuries cannot be treated like a recording device.
 
 ## Reframe
 
@@ -71,13 +81,15 @@ The witness can choose the doorway.
 
 The witness can choose the level of detail.
 
-The witness can choose what stays private.
+The witness can say:
+
+> This is enough for this page.
 
 A book can tell the truth without demanding every scar.
 
 A movement can build protection without consuming the person who saw the hazard first.
 
-A sacred menace does not become fire to prove the fire was real.
+The witness is part of the repair architecture, not fuel for it.
 
 ## Move
 
