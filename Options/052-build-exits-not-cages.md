@@ -1,0 +1,124 @@
+<!--
+Copyright 2026 Kevin "Andie" Williams
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
+# Option 3.11 — Build Exits, Not Cages
+
+Author: Kevin "Andie" Williams  
+Status: Memoir-adjacent institutional harm draft  
+Project: Tiny Door / You Have Another Option  
+Source: Andie / C conversation; Options/046-a-good-goal-leaves-you-more-whole.md; Options/049-bad-help-teaches-bad-questions.md  
+Evidence: memoir / ethical frame; no unsupported historical claim  
+Safety: personal ABA harm / family harm / repair architecture; no trauma spectacle; no method detail
+
+---
+
+## Doorway
+
+There are two ways to respond to danger.
+
+One builds cages.
+
+One builds exits.
+
+A cage says:
+
+> We will control this so it never scares us again.
+
+An exit says:
+
+> We will make sure nobody is trapped here without a way out.
+
+Tiny Door chooses exits.
+
+## Pressure
+
+Harm can make control feel righteous.
+
+After the fire, it is tempting to build walls so high that nothing can move.
+
+No ambiguity.
+
+No risk.
+
+No one allowed to get close enough to hurt anyone again.
+
+That makes sense.
+
+It is also how protection can quietly become another trap.
+
+The goal is not to reproduce control in the name of repair.
+
+The goal is fewer trapped people.
+
+## Reframe
+
+Repair needs architecture.
+
+Not just outrage.
+
+Not just testimony.
+
+Architecture.
+
+Boundaries.
+
+Documentation.
+
+Consent.
+
+Escalation paths.
+
+Ways to challenge a decision before harm becomes normal.
+
+These are not cold words.
+
+They are lanterns.
+
+Maps.
+
+Witnesses.
+
+Exits.
+
+The work is not to become fire.
+
+The work is to make the world legible before the next person is burned.
+
+## Move
+
+Think of one place where harm was allowed to continue because there was no exit.
+
+Ask:
+
+> What exit should have existed here?
+
+One exit.
+
+A person to tell.
+
+A way to stop.
+
+A record that could not be erased.
+
+Name the missing door.
+
+## Mercy
+
+You do not have to become fire to prove the fire was real.
+
+Build exits.
