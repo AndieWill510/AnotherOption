@@ -235,3 +235,15 @@ See also: `rfc/proof-not-citation-standard.md`.
 206. https://researchautism.org/self-advocates/sex-ed-for-self-advocates/sex-ed-for-self-advocates-podcast/
 207. https://www.therecoveryvillage.com/alcohol-abuse/oxytocin-treatment/
 208. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10243933/
+
+---
+
+## Added from ABA Evidence Map Review — 2026-06-02
+
+These references were added because `Chapters/ABA-EVIDENCE-MAP.md` identified them as missing or newly necessary for claim-control. They remain imported / unverified until tied to a specific claim and reviewed.
+
+209. https://journalofethics.ama-assn.org/article/when-disability-defined-behavior-outcome-measures-should-not-promote-passing/2021-07
+210. https://onlinelibrary.wiley.com/doi/10.1901/jaba.1974.7-173
+211. https://www.federalregister.gov/documents/2020/03/06/2020-04328/banned-devices-electrical-stimulation-devices-for-self-injurious-or-aggressive-behavior
+212. https://www.reuters.com/business/healthcare-pharmaceuticals/fda-proposes-ban-certain-shock-devices-second-time-2024-03-25/
+213. https://www.bacb.com/rbt/
