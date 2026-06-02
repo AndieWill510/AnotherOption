@@ -29,78 +29,98 @@ Safety: personal ABA harm / family harm / witness protection; no trauma spectacl
 
 ## Doorway
 
-I have a story to tell.
+Inside the house, there was a measuring stick.
 
-It is about what was called help.
+It did not look like a measuring stick.
 
-It is about what was done to my children.
+It looked like standards.
 
-It is about what was done to me.
+It looked like wanting the children to succeed.
 
-But before the story enters the room, this needs to be clear:
+It looked like love with a clipboard hidden inside it.
 
-The fire was not the lesson.
+But the reference point was always somewhere else.
 
-The survival was.
+Neurotypical children.
+
+Productive children.
+
+Children offering excellent service to the world.
+
+So long as my children could be compared favorably to that image, they were okay.
+
+They had value.
+
+When they could not, their value disappeared from the room.
+
+And neither did I.
 
 ## Pressure
 
-People sometimes try to make suffering useful by making it noble.
+That is a hard sentence to write because it holds two injuries at once.
 
-They say pain made you strong.
+I was watching my children be measured by a world that was not built for them.
 
-They say everything happened for a reason.
+I was also being measured by it.
 
-They say the wound became the gift.
+My value was tied to whether they performed correctly.
 
-No.
+My value was also judged against the same neurotypical productivity standard.
 
-The fire does not need to be redeemed before it can be named.
+Both.
 
-Harm does not become holy because someone survived it.
+That word is the room.
 
-A person should not have to turn injury into wisdom in order for the injury to matter.
+Not just parent watching harm.
+
+Not just Autistic person receiving harm.
+
+Both.
 
 ## Reframe
+
+The fire was not the lesson.
+
+The fire was the system that made value contingent.
+
+You are okay if you resemble the approved child.
+
+You are okay if your children resemble the approved children.
+
+You are okay if the house can point to your output and call it proof.
+
+That is not safety.
+
+That is not love.
+
+That is not help.
+
+It is a way of making a person earn the right to remain fully human in the room.
 
 The lesson is not that the fire was good.
 
 The lesson is that fire has a shape.
 
-It has warning signs.
-
-It has fuel.
-
-It has rooms where people are told to stay still while the smoke gathers.
-
-A survivor may learn that shape.
-
-Not because the fire was necessary.
-
-Because the body was paying attention while trying to live.
-
-That knowledge can become protection.
-
-Not proof that the harm was worth it.
-
-Proof that the harm does not get the final word.
+And once the shape is visible, someone can build a door where the wall used to be.
 
 ## Move
 
-Name one hazard without making it noble.
+Name one measuring stick that was used against you.
 
 One.
 
 Not the whole story.
 
-Just one sentence:
+Ask:
 
-> This hurt, and it did not need to happen.
+> Who was I being asked to resemble?
 
-Let that be enough for now.
+Let the answer be plain.
 
 ## Mercy
 
-You do not have to call the fire holy.
+You were not born to become evidence for someone else's standard.
 
-Call the survival holy.
+The fire was not the lesson.
+
+The survival was.
