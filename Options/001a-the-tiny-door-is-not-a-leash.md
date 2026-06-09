@@ -16,12 +16,12 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 2.1 — The Tiny Door Is Not a Leash
+# Option 018 — The Tiny Door Is Not a Leash
 
 Author: Kevin "Andie" Williams  
 Status: staged insertion draft  
 Project: You Have Another Option  
-Target: new Chapter 2 / Option 2.1 after `Options/001-the-saxophone.md`  
+Target: Option 018 after `Options/017-*` and before the current `Options/018-*` sequence is shifted  
 Temporary filename: `Options/001a-the-tiny-door-is-not-a-leash.md` until sequence renumbering  
 Safety: low direct crisis content; coercion / compliance / shame content present
 
