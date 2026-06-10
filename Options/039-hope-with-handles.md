@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 2.19 — Hope With Handles
+# Option 3.19 — Hope With Handles
 
 Author: Kevin "Andie" Williams  
 Status: Options Under Stress sprint draft  
