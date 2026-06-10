@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 2.11 — After the Body Chooses
+# Option 3.11 — After the Body Chooses
 
 Author: Kevin "Andie" Williams  
 Status: Recovery / harm-reduction sprint draft  
