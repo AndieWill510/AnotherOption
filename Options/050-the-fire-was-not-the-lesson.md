@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.9 — The Fire Was Not the Lesson
+# Option 4.11 — The Fire Was Not the Lesson
 
 Author: Kevin "Andie" Williams  
 Status: Memoir-adjacent institutional harm draft  
