@@ -19,7 +19,7 @@ SPDX-License-Identifier: Apache-2.0
 # Chapter 2.2 / Option 019 — A Real Door Can Be Refused
 
 Author: Kevin "Andie" Williams  
-Status: doorway draft  
+Status: promoted  
 Project: You Have Another Option  
 Chapter: 2.2  
 Option: 019  
