@@ -21,7 +21,7 @@ SPDX-License-Identifier: Apache-2.0
 Author: Kevin "Andie" Williams  
 Status: Regulation / harm-reduction sprint draft  
 Project: Tiny Door / You Have Another Option  
-Source: Options/027-you-can-always-stim.md; Chapters/030.md  
+Source: Options/030-you-can-always-stim.md; Chapters/030.md  
 Safety: stimming / hostile environments / harm-reduction frame; no method detail; safety-style review required
 
 ---
