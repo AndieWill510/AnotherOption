@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 2.17 — Positive Is Not the Point
+# Option 3.17 — Positive Is Not the Point
 
 Author: Kevin "Andie" Williams  
 Status: Options Under Stress sprint draft  
