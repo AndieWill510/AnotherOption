@@ -1,0 +1,136 @@
+<!--
+Copyright 2026 Kevin "Andie" Williams
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
+# Option 5.6 — The One-Item Menu Was Never the Whole World
+
+Author: Kevin "Andie" Williams  
+Status: Way Home draft / source-witness translation  
+Project: Tiny Door / You Have Another Option  
+Source: Chapters/160.md; Options/065-the-shame-cycle-is-not-your-character.md; Options/066-protective-mimicry-was-not-your-failure.md; Options/067-the-advice-did-not-fit-the-room.md  
+Evidence: source-witness frame / paradigm-shift frame; no unsupported clinical or evolutionary claim  
+Safety: burnout / dysregulation / shame / social threat / recovery; no medical advice; no method detail
+
+---
+
+## Doorway
+
+When the body has been trained by pressure, it may offer the same old menu.
+
+Mask.
+
+Please.
+
+Disappear.
+
+Perform fine.
+
+Freeze.
+
+Push harder.
+
+Try again.
+
+Go longer.
+
+Turn up the response because nothing else seems available.
+
+But the one-item menu was never the whole world.
+
+## Pressure
+
+Protective strategies can become destructive when the room never gives the body recovery.
+
+A response that helped once can become the only response the body can find.
+
+A mask becomes a life.
+
+A shutdown becomes a schedule.
+
+A push becomes a collapse waiting its turn.
+
+Then people call the outcome weakness.
+
+They miss the sequence.
+
+The body was not trying to fail.
+
+The body was ordering from the only menu it had been shown.
+
+## Reframe
+
+Beginning to end destructive mimicry does not mean ripping every strategy away.
+
+It means adding options before the old response becomes automatic.
+
+Earlier exits.
+
+Better rooms.
+
+Clearer scripts.
+
+More recovery.
+
+Trusted witnesses.
+
+Less shame input.
+
+A body cannot usually choose a new path while it is being punished for needing one.
+
+So the work starts smaller:
+
+> What else could be on the menu?
+
+Not the perfect answer.
+
+One more answer.
+
+## Move
+
+Pick one repeating pattern.
+
+When I am overwhelmed, I usually ____.
+
+Fill in the blank gently.
+
+Then write one added menu item:
+
+> Next time, I might also ____.
+
+Make it tiny.
+
+Step out sooner.
+
+Use the script.
+
+Ask for writing.
+
+Eat first.
+
+Cancel before collapse.
+
+Tell one safe person the room is getting expensive.
+
+One added option is still a door.
+
+## Mercy
+
+Your body was not foolish for using the only strategy it knew.
+
+And your future does not have to keep ordering from the same old menu.
+
+You have more options than the room taught you.
