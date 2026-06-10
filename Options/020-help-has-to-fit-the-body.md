@@ -16,11 +16,13 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 020 — Help Has to Fit the Body
+# Chapter 2.3 / Option 020 — Help Has to Fit the Body
 
 Author: Kevin "Andie" Williams  
 Status: doorway draft  
 Project: You Have Another Option  
+Chapter: 2.3  
+Option: 020  
 Source: Options 018-019; ConstantC covenant / reciprocal guardrails  
 Safety: low direct crisis content; coercion / compliance / shame content present
 
