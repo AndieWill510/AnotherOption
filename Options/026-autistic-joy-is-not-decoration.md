@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 2.6 — Autistic Joy Is Not Decoration
+# Option 3.6 — Autistic Joy Is Not Decoration
 
 Author: Kevin "Andie" Williams  
 Status: Regulation sprint draft  
