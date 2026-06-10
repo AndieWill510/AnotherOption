@@ -140,13 +140,17 @@ You are not a failed normal person.
 
 You are not a broken copy of someone easier.
 
-You are special.
+Maybe words like special, beautiful, and wonderful have been used badly around you.
 
-You are beautiful.
+Maybe they have sounded like a poster over a locked door.
 
-You are wonderful.
+That is not what I mean.
 
-You are a gift.
+I mean the world would be less true without you in it.
+
+I mean your difference is not excess material.
+
+I mean your life is not a mistake to be sanded down.
 
 Say God.
 
