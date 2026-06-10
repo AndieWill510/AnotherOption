@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 2.2 — The Missing Ramp
+# Option 3.2 — The Missing Ramp
 
 Author: Kevin "Andie" Williams  
 Status: Social model sprint draft  
