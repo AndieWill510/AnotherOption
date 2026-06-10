@@ -46,21 +46,21 @@ It means the door does not fit yet.
 
 ## Pressure
 
-A lot of support asks the Autistic or ADHD person to become the kind of person the support was designed for.
+A lot of support asks the Autistic or ADHD person to become the person the support was designed for.
 
-A planner that assumes time feels linear.
+A planner that assumes time behaves.
 
 A therapy exercise that assumes speech is available.
 
-A classroom rule that assumes sitting still means attention.
+A classroom rule that mistakes stillness for attention.
 
 A workplace accommodation that assumes asking once is enough.
 
 A family plan that assumes you can explain your needs while already overloaded.
 
-A medical instruction that assumes executive function, transportation, money, food, sleep, and trust are all already in place.
+A medical instruction that assumes transportation, money, food, sleep, trust, and executive function are already there.
 
-When the support does not work, the explanation often moves back onto you.
+Then, when the support fails, the explanation moves back onto you.
 
 You did not follow through.
 
