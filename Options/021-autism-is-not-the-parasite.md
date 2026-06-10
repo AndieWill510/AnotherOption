@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 2.1 — Autism Is Not the Parasite
+# Option 3.1 — Autism Is Not the Parasite
 
 Author: Kevin "Andie" Williams  
 Status: Social model sprint draft  
