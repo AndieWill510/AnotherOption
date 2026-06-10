@@ -84,9 +84,12 @@ This index tracks the current normalized `Options/` sequence for *Tiny Door / Yo
 060. [The First Adult Standing](060-the-first-adult-standing.md)
 061. [The Old Promise Still Opens](061-the-old-promise-still-opens.md)
 062. [Repair That Reaches the Body](062-repair-that-reaches-the-body.md)
+063. [The Game Was Unwinnable](063-the-game-was-unwinnable.md)
+064. [What Distracts One Body Can Injure Another](064-what-distracts-one-body-can-injure-another.md)
+065. [The Shame Cycle Is Not Your Character](065-the-shame-cycle-is-not-your-character.md)
 
 ## Cleanup notes
 
-The filename sequence has been normalized from `001` through `062`.
+The filename sequence has been normalized from `001` through `065`.
 
 Some chapters may still contain historical internal metadata or source notes from the pre-normalization decimal sequence. Those should be handled as a separate metadata/reference sweep so chapter text is not accidentally altered during filename cleanup.
