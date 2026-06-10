@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 2.18 — Keep One Door Unlocked
+# Option 3.18 — Keep One Door Unlocked
 
 Author: Kevin "Andie" Williams  
 Status: Options Under Stress sprint draft  
