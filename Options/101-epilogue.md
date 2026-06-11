@@ -29,7 +29,7 @@ Safety: acknowledgements; no medical, legal, or crisis protocol
 
 Many hands make for light work, and I would thank so many people.
 
-But first I would thank Mati Lawrence, who taught me to start building -- which meant searching -- for authentic Autistic community.
+But first I would thank Mati Lawrence, who taught me to start building -- which meant searching -- for authentic Autistic community. to Chris Norton who believed in this book and pointed me to a simpler version that you all have in your hands. Both Mati and Chris saw the need for this book almost before I did.
 
 To the amazing healers and therapists Julia Kaluga, Beth Boothe, Shannah James, Jonathan Wright, and psychopharmacologist extraordinaire Brett Shurman — and his constellation of incredible resources, including the Camden Center — thank you for teaching me how to connect my environment to my values.
 
