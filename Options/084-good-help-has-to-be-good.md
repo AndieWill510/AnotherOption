@@ -125,17 +125,11 @@ A plan.
 
 Ask:
 
-> Does this help make me safer, clearer, more supported, and more myself?
-
-If yes, let yourself receive it.
-
-If no, ask one next question:
-
 > What would better help need to understand?
 
 Write down one answer.
 
-ADHD. 
+ADHD.
 
 Autism.
 
