@@ -97,7 +97,7 @@ Help that explains.
 
 Help that respects your body.
 
-Help that understands Autism, trauma, identity, fear, grief, and dignity may all be in the same room.
+Help that understands ADHD, Autism, trauma, identity, fear, grief, and dignity may all be in the same room.
 
 Help that takes serious symptoms seriously without turning you into only symptoms.
 
