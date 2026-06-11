@@ -103,7 +103,7 @@ This is not pretending the room was fair.
 
 It is releasing the demand that an unfair room become fair before you are allowed to come back to yourself.
 
-In Plum Village language, the anger is not an enemy to crush.
+In some Buddhist traditions, the anger is not an enemy to crush.
 
 It is a suffering thing to recognize, hold, and thank for trying to protect you.
 
