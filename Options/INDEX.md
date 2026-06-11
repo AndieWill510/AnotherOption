@@ -93,9 +93,12 @@ This index tracks the current normalized `Options/` sequence for *Tiny Door / Yo
 069. [The Word Is a Handle](069-the-word-is-a-handle.md)
 070. [Shunning Is a System, Not a Verdict](070-shunning-is-a-system-not-a-verdict.md)
 071. [Fewer Fires, Not More Grit](071-fewer-fires-not-more-grit.md)
+072. [Every System Talks to the Others](072-every-system-talks-to-the-others.md)
+073. [Spend Your Spoons Where You Are Believed](073-spend-your-spoons-where-you-are-believed.md)
+074. [Catch the Message Before It Becomes You](074-catch-the-message-before-it-becomes-you.md)
 
 ## Cleanup notes
 
-The filename sequence has been normalized from `001` through `071`.
+The filename sequence has been normalized from `001` through `074`.
 
 Some chapters may still contain historical internal metadata or source notes from the pre-normalization decimal sequence. Those should be handled as a separate metadata/reference sweep so chapter text is not accidentally altered during filename cleanup.
