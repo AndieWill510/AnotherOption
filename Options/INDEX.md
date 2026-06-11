@@ -90,9 +90,12 @@ This index tracks the current normalized `Options/` sequence for *Tiny Door / Yo
 066. [Protective Mimicry Was Not Your Failure](066-protective-mimicry-was-not-your-failure.md)
 067. [The Advice Did Not Fit the Room](067-the-advice-did-not-fit-the-room.md)
 068. [The One-Item Menu Was Never the Whole World](068-the-one-item-menu-was-never-the-whole-world.md)
+069. [The Word Is a Handle](069-the-word-is-a-handle.md)
+070. [Shunning Is a System, Not a Verdict](070-shunning-is-a-system-not-a-verdict.md)
+071. [Fewer Fires, Not More Grit](071-fewer-fires-not-more-grit.md)
 
 ## Cleanup notes
 
-The filename sequence has been normalized from `001` through `068`.
+The filename sequence has been normalized from `001` through `071`.
 
 Some chapters may still contain historical internal metadata or source notes from the pre-normalization decimal sequence. Those should be handled as a separate metadata/reference sweep so chapter text is not accidentally altered during filename cleanup.
