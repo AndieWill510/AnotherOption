@@ -115,9 +115,12 @@ This index tracks the current normalized `Options/` sequence for *Tiny Door / Yo
 091. [Safety Comes Before Self-Improvement](091-safety-comes-before-self-improvement.md)
 092. [The Wrong Blend Will Drain Your Life](092-the-wrong-blend-will-drain-your-life.md)
 093. [Tune, Prune, Ground, Shape](093-tune-prune-ground-shape.md)
+094. [Your Recovery Is Not a Revenue Stream](094-your-recovery-is-not-a-revenue-stream.md)
+095. [Personal Branding Is Another Masking Demand](095-personal-branding-is-another-masking-demand.md)
+096. [The Side Hustle Is Not a Solution to the Hostile Room](096-the-side-hustle-is-not-a-solution-to-the-hostile-room.md)
 
 ## Cleanup notes
 
-The filename sequence has been normalized from `001` through `093`.
+The filename sequence has been normalized from `001` through `096`.
 
 Some chapters may still contain historical internal metadata or source notes from the pre-normalization decimal sequence. Those should be handled as a separate metadata/reference sweep so chapter text is not accidentally altered during filename cleanup.
