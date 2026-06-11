@@ -1,0 +1,152 @@
+<!--
+Copyright 2026 Kevin "Andie" Williams
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
+# Option 5.17 — The Signal Is Not a Sin
+
+Author: Kevin "Andie" Williams  
+Status: Way Home draft / source-witness translation  
+Project: Tiny Door / You Have Another Option  
+Source: Chapters/300.md; Options/035-autistic-first-aid.md; Options/075-train-before-the-room-is-on-fire.md  
+Evidence: source-witness frame / first-aid signal frame; no medical advice; no unsupported clinical claim  
+Safety: meltdown / shutdown / sleep deprivation / burnout / distress signals; no method detail; urgent medical or safety concerns require qualified help
+
+---
+
+## Doorway
+
+A signal is not a sin.
+
+Meltdown is not manipulation.
+
+Shutdown is not laziness.
+
+Sleep deprivation is not moral failure.
+
+Burnout is not weakness.
+
+They are signals.
+
+Pain signals.
+
+Need signals.
+
+Load signals.
+
+Signals that something has already become too much.
+
+## Pressure
+
+The room may want the signal to be convenient.
+
+Quiet distress.
+
+Clear distress.
+
+Polite distress.
+
+Distress with perfect words and no disruption.
+
+But bodies do not always warn in language the room prefers.
+
+Sometimes the signal is crying.
+
+Sometimes it is silence.
+
+Sometimes it is leaving.
+
+Sometimes it is no speech.
+
+Sometimes it is fog, clumsiness, irritation, exhaustion, or the body refusing the next demand.
+
+When the room punishes the signal, the person learns to hide it.
+
+Then the unmet need gets louder.
+
+## Reframe
+
+The first question is not:
+
+> How do I stop looking like this?
+
+The first question is:
+
+> What need has been unmet long enough to become a signal?
+
+Rest.
+
+Food.
+
+Water.
+
+Quiet.
+
+Pain care.
+
+Less social demand.
+
+Less masking.
+
+Medical support.
+
+Autistic community.
+
+A safer room.
+
+The signal does not make you bad.
+
+It tells you where care is late.
+
+## Move
+
+Pick one recent signal.
+
+Small, if possible.
+
+A moment when the body changed before the mind had the words.
+
+Ask:
+
+> What was late?
+
+One answer is enough.
+
+Sleep was late.
+
+Food was late.
+
+Quiet was late.
+
+Escape was late.
+
+Belief was late.
+
+Help was late.
+
+Then choose one earlier care move for next time.
+
+Earlier is not failure.
+
+Earlier is first aid.
+
+## Mercy
+
+You are not guilty because your body told the truth in a language the room disliked.
+
+The signal is not the enemy.
+
+The signal is where the tiny door needs to be installed sooner.
