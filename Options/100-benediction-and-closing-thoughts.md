@@ -47,7 +47,7 @@ A haven of community and sanctuary.
 
 So I built one.
 
-And I hope it helps you build your next one.
+And I hope it helps you build yours.
 
 Never forget:
 
