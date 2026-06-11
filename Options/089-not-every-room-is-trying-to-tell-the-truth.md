@@ -93,7 +93,7 @@ This does not mean you were wrong.
 
 It means the room may not be available for truth in the way your body expects.
 
-A Plum Village practice here is non-attachment to views.
+One useful practice from Buddhism is non-attachment to views.
 
 Not abandoning truth.
 
