@@ -31,7 +31,7 @@ Many hands make for light work, and I would thank so many people.
 
 But first I would thank Mati Lawrence, who taught me to start building -- which meant searching -- for authentic Autistic community.
 
-To amazing healers and therapists Julia Kaluga, Beth Boothe, Shannah James, Jonathan Wright, and Psychopharmacologist extraordinaire Brett Shurman — and his constellation of incredible resources, including the Camden Center — taught me how to connect my environment to my values.
+To amazing healers and therapists Julia Kaluga, Beth Boothe, Shannah James, Jonathan Wright, and Psychopharmacologist extraordinaire Brett Shurman — and his constellation of incredible resources, including the Camden Center — taught me how to connect my environment to my values.  To 
 
 My lifelong friend Euphrate Khantouche, and Steve McPherson, who helped me transition out of a toxic relationship: he and Mati both saved my life.
 
