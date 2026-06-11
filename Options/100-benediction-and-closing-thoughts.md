@@ -27,6 +27,12 @@ Safety: closing blessing; no medical, legal, or crisis protocol
 
 ---
 
+This book started with a little girl who was given a broken saxophone that was never going to produce the right notes. 
+
+A metaphor, perhaps, for the spaces neurodivergent people are so often forced into and would rightly never choose for themselves. 
+
+If I did my job right, and did my job well, you are now on a similar path to choose with agency and authentic community for yourself. 
+
 I started this journey, this little book, three years ago.
 
 I needed it.
