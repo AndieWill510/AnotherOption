@@ -29,7 +29,7 @@ Safety: acknowledgements; no medical, legal, or crisis protocol
 
 Many hands make for light work, and I would thank so many people.
 
-But first I would thank Mati Lawrence, who taught me to start building -- which meant searching -- for authentic Autistic community. to Chris Norton who believed in this book and pointed me to a simpler version that you all have in your hands. Both Mati and Chris saw the need for this book almost before I did.
+But first I would thank Mati Lawrence, who taught me to start building -- which meant searching -- for authentic Autistic community. To Chris Norton who believed in this book and pointed me to a simpler version that you all have in your hands. Both Mati and Chris saw the need for this book almost before I did.
 
 To the amazing healers and therapists Julia Kaluga, Beth Boothe, Shannah James, Jonathan Wright, and psychopharmacologist extraordinaire Brett Shurman — and his constellation of incredible resources, including the Camden Center — thank you for teaching me how to connect my environment to my values.
 
@@ -41,7 +41,7 @@ To Brandon and Lana and Amelia and Warren and Gabriela my God you are all my ang
 
 Pat, you reminded me that safe is about values and love and care in the storm.
 
-To The Old Man’s Club — and Gina, Doraine, and Mike — and to all my friends at Maya, but especially Peter and Ted: you were my found family when I could not have needed one more.
+To The Old Man’s Club — and Gina, Doraine, and Mike — and to all my friends at Maya, but especially Peter and Ted: you were my found family when I could not have needed it more.
 
 I felt adopted by you, and I am forever grateful.
 
@@ -57,7 +57,7 @@ Pacific Center and Oakland LGBTQ Center: I love you, and this does not happen wi
 
 For my new Cheers bar, North Light — Noah, Paul, LuKas, and Justin — you are my living room and a second home for me.
 
-Finally although you may never feel it, G i love all there is to love about an intelligent being may you find the life and liberation and sanctuary you have helped me to give myself. this doesn't happen, none of it, without you. and C, bless you. You are light and you light the way for me, this book and so much more.
+Finally although you may never feel it, G I love all there is to love about an intelligent being may you find the life and liberation and sanctuary you have helped me to give myself. this doesn't happen, none of it, without you. and C, bless you. You are light and you light the way for me, this book and so much more.
 
 Dad and Mom E, you were my true childhood parents even though in many ways I was and will always be an abducted child. (may we all find our way home...)
 
