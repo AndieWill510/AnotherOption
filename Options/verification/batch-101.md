@@ -16,4 +16,10 @@ Cleanup note updated: yes
 100 create commit: bd96c0cf8523364a26b1ad1f66a9212b41337c70
 101 create commit: 72dd9f9163450a6bd35ba05c39331080eb63f4cf
 101 healer acknowledgement repair commit: c65d2644ff1bfeb3dc5e22649465b35a17455ff7
+101 targeted grammar repairs commit: b2d411ab7acbab8ddc06f4199a7372ed4fcee62f
 Index update commit: c2004f206d4474dd8b60b445bad34fdfd225bc53
+
+## Targeted grammar repairs confirmed
+- `community. to Chris Norton` → `community. To Chris Norton`
+- `when I could not have needed one more` → `when I could not have needed it more`
+- `G i love` → `G I love`
