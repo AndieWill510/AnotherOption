@@ -38,7 +38,7 @@ A real room.
 
 People who understand the pause before speech.
 
-People who do not need every movement explained.
+People who do not need every syllable delivered with eye contact.
 
 People who know that joy can look strange from the outside and still be joy.
 
