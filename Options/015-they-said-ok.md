@@ -28,9 +28,7 @@ Safety: memoir / bisexuality / trans identity / family rejection / life-saving a
 
 ## Doorway
 
-And they did exactly that.
-
-They gave birth.
+My friends gave birth.
 
 Not literally enough to be simple.
 
@@ -62,11 +60,11 @@ They become marriages where only part of you is permitted.
 
 They become families where your truth is treated as a threat.
 
-They become rooms where bisexuality is treated like confusion, betrayal, or failure to choose a side.
+They become rooms where being queer is treated like confusion, betrayal, or failure to choose a side.
 
-Queer and trans Autistic people know this double bind.
+Queer and other Neurodivergent people know this double bind.
 
-You can be told that your sexuality is not real enough, your gender is not legible enough, and your Autism is not respectable enough.
+You can be told that your sexuality is not real enough, your gender is not legible enough, and your Neurodivergence is not respectable enough.
 
 So you learn to ration truth.
 
@@ -76,7 +74,7 @@ Until one day you cannot.
 
 I told them I was bi.
 
-The OMC, Ted, Peter, and Gina all said: okay.
+They all said: okay.
 
 All good.
 
