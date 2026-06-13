@@ -339,4 +339,6 @@ The reader should know when the book is saying:
 - this needs more study;
 - this is a practical suggestion, not medical advice.
 
-The book may be fierce.
+This book may be fierce...
+
+**..._because they don't get to win_.** 
