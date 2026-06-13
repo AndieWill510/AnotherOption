@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 1.7 — The Problem Is Not Autistic Behavior
+# Option 1.7 — The Problem Is Not Neurodivergent Behavior
 
 Author: Kevin "Andie" Williams  
 Status: Bridge sprint draft  
@@ -28,7 +28,7 @@ Safety: ableism / institutional harm content; low direct crisis content
 
 ## Doorway
 
-Autistic behavior is one of the great distractions.
+Neurodivergent behavior is one of the great distractions.
 
 Not because behavior is meaningless.
 
@@ -54,7 +54,7 @@ This book asks:
 
 ## Pressure
 
-When people focus only on Autistic behavior, they often miss the conditions producing distress.
+When people focus only on our behavior, they often miss the conditions producing distress.
 
 The lights.
 
@@ -68,11 +68,11 @@ The schedule gets to remain innocent.
 
 The institution gets to remain innocent.
 
-And the Autistic person carries the blame.
+And the Neurodivergent person carries the blame.
 
 ## Reframe
 
-Autistic behavior is information.
+Our behavior is information.
 
 That does not mean every behavior is safe.
 
@@ -92,7 +92,7 @@ But if a smoke alarm goes off, the first wise move is not to smash the alarm.
 
 The first wise move is to look for smoke.
 
-Autistic behavior often asks the same mercy:
+Our behavior often asks the same mercy:
 
 > Look for smoke.
 
@@ -100,7 +100,7 @@ Autistic behavior often asks the same mercy:
 
 If you are asking this about your own behavior, go slowly.
 
-The next time you notice an Autistic behavior — yours or someone else's — pause before naming it good or bad.
+The next time you notice an Neurodivergent behavior — yours or someone else's — pause before naming it good or bad.
 
 Ask:
 
