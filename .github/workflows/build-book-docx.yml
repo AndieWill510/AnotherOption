@@ -1,0 +1,46 @@
+name: Build book DOCX
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/build-book-docx.yml
+      - tools/build_book_docx.py
+      - Options/**
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-book-docx:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade python-docx
+
+      - name: Build DOCX manuscript
+        run: python tools/build_book_docx.py
+
+      - name: Commit DOCX manuscript
+        run: |
+          if ! git diff --quiet -- dist/Tiny_Doors_and_Pillow_Forts_You_Have_Another_Option.docx; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add dist/Tiny_Doors_and_Pillow_Forts_You_Have_Another_Option.docx
+            git commit -m "Build Tiny Doors manuscript DOCX"
+            git push
+          else
+            echo "No DOCX manuscript changes needed."
+          fi
