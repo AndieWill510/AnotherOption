@@ -28,7 +28,7 @@ Safety: overload recovery / repair / accountability / reflection frame; no metho
 
 ## Doorway
 
-Later is different from never.
+Later is different from never, after a meltdown.
 
 After the body has come down.
 
