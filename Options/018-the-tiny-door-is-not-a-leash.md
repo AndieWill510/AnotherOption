@@ -88,7 +88,7 @@ The question is not only:
 
 > Does this help me function?
 
-That question can be too small.
+That question is too small.
 
 People can make you function inside a life that is still harming you.
 
@@ -96,7 +96,7 @@ People can make you productive while your body is begging for mercy.
 
 People can praise your improvement because your suffering has become less inconvenient to them.
 
-So ask the larger question:
+So ask the bigger question:
 
 > Does this help me choose?
 
