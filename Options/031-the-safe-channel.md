@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.8 — The Safe Channel
+# Option 3.8 — A Safe Way Through
 
 Author: Kevin "Andie" Williams  
 Status: Regulation / harm-reduction sprint draft  
