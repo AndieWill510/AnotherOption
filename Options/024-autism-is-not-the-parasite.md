@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.1 — Neurodivergence Is Not the Parasite
+# Option 3.1 — Neurodivergence Is Not The Parasite
 
 Author: Kevin "Andie" Williams  
 Status: Social model sprint draft  
@@ -48,7 +48,7 @@ Not everything.
 
 But something.
 
-The parasite loosens.
+The parasite, that thing that so oftens eats away at us socially, loosens.
 
 And the parasite was never Neurodivergence.
 
@@ -56,7 +56,7 @@ And the parasite was never Neurodivergence.
 
 A lot of us were taught the wrong story.
 
-We were told Autism and ADHD was the problem.
+We were told Autism and ADHD was the problem...some _parasite_. 
 
 The disorder.
 
@@ -70,11 +70,11 @@ Even when the language got gentler, the old story often stayed underneath it:
 
 That story does damage.
 
-If you believe the crisis is you, you will spend your life trying to become less visible to your own body.
+If you believe your neurotype is eating away at you (and everyone around you), you will spend your life trying to become less visible to your own body.
 
-You will call masking maturity.
+You will call masking, maturity.
 
-You will call exhaustion responsibility.
+You will call exhaustion, responsibility.
 
 You will call collapse the cost of being loved.
 
@@ -92,15 +92,13 @@ It does not mean pain, disability, caregivers, or accommodations do not matter.
 
 It means the target has been wrong.
 
-The problem is not our existence.
+The problem is not our existence (or how we behave).
 
 The problem is an environment that treats our existence as an emergency.
 
-That is the parasite:
+That is the parasite: not Autism or ADHD,
 
-not Autism or ADHD,
-
-but the story that it makes a person less legitimate, less believable, less welcome, less whole, or less worth designing around.
+but the story that we are less legitimate, less believable, less welcome, less whole, or less worth to be around.
 
 ## Move
 
@@ -110,11 +108,13 @@ When the old question appears —
 
 try adding one more question:
 
-> What condition is making this harder than it has to be?
+> What is making this harder than it has to be?
 
-One condition.
+Maybe sound...too loud. 
 
-Maybe sound.
+Maybe people...too many, too unknown.
+
+Maybe light...too bright, too fluorescent. 
 
 Maybe uncertainty.
 
