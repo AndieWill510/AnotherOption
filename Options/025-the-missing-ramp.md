@@ -36,17 +36,17 @@ The person is not the architectural failure.
 
 The stairs are not a moral lesson.
 
-The missing ramp is not proof that the person should have tried harder to walk.
+The missing ramp is not proof that the person should have tried harder to climb stairs.
 
 The missing ramp is the problem.
 
 Now hold that image.
 
-Autistic people live with missing ramps everywhere.
+Neurodivergent people live with missing ramps _everywhere_.
 
 ## Pressure
 
-Many Autistic ramps are invisible to people who do not need them.
+Many Autistic/ADHD ramps are invisible to people who do not need them.
 
 A predictable schedule can be a ramp.
 
@@ -54,7 +54,7 @@ Clear written instructions can be a ramp.
 
 Enough recovery time can be a ramp.
 
-But when the ramp is missing, people often blame the Autistic person for not climbing the stairs beautifully enough.
+But when the ramp is missing, people often blame us for not climbing the stairs beautifully enough.
 
 Too sensitive.
 
@@ -68,11 +68,9 @@ The person becomes the problem.
 
 ## Reframe
 
-The Social Model does not mean disability is fake.
+This does not mean our disability is fake.
 
-It means disability is not located only inside one body.
-
-It also lives in the fit between body and world.
+It means disability lives in the fit between body and world.
 
 A ramp does not erase every part of disability.
 
@@ -80,7 +78,7 @@ But it changes what is possible.
 
 That is the point.
 
-Autistic accommodations are not luxuries.
+Our accommodations are not luxuries.
 
 They are not special treatment.
 
@@ -92,13 +90,15 @@ A world with ramps asks a better question:
 
 ## Move
 
-Name one missing ramp.
+Name one missing ramp for you.
 
 One.
 
 Maybe written instructions.
 
 Maybe recovery time.
+
+Or skipping that party. 
 
 Start by naming what access would change.
 
