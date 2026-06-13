@@ -36,9 +36,9 @@ The child looks away.
 
 The child reaches for the same object again and again.
 
-The adults may be scared.
+The adults may be uncomfortable, and say so.
 
-The parents may be exhausted.
+The parents may be exhausted. And worried.
 
 The clinician may believe they are doing good.
 
@@ -66,7 +66,7 @@ It may still say treatment.
 
 It may still say progress.
 
-But if the goal is to make the Autistic person easier for the room without making the room safer for the Autistic person, something has gone wrong.
+But if the goal is to make the child easier for the room without making the room safer for the child, something has gone terribly wrong.
 
 ## Reframe
 
@@ -80,7 +80,7 @@ Support asks:
 
 Compliance asks:
 
-> How do we make this person less disruptive to the system?
+> How do we make this person less disruptive to the room?
 
 Those are not the same question.
 
@@ -110,7 +110,7 @@ Let the answer matter.
 
 You were allowed to need help.
 
-You were not supposed to be trained out of yourself to receive it.
+You were not supposed to be trained out receiving it.
 
 ---
 
