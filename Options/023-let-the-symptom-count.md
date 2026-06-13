@@ -32,8 +32,6 @@ Dizzy sick.
 
 Migraine sick.
 
-Ulcer sick.
-
 Stomach sick.
 
 I learned it again in consulting rooms, friendships, lunches, appointments, obligations, and events I had agreed to before my body knew the price.
@@ -60,7 +58,7 @@ A racing heart.
 
 A throat that will not make words.
 
-A body that says: not one more minute.
+A body that says: _not one more minute_.
 
 This is not a chapter about pretending.
 
@@ -102,7 +100,7 @@ They will say I am avoiding.
 
 They will make me explain it perfectly.
 
-But the body is not required to pass a loyalty test before it deserves care.
+But the body _is not required to pass a loyalty test before it deserves care_.
 
 ## Reframe
 
@@ -134,7 +132,7 @@ It does not mean induce symptoms.
 
 It does not mean turning every body signal into a trial against yourself.
 
-It means when the symptom is there, you do not have to sand it down until the room is comfortable.
+It means when the symptom is there, you do not have to water it down until the room is comfortable.
 
 You can say:
 
@@ -210,17 +208,15 @@ If a symptom is sudden, severe, new, frightening, or feels medically urgent, tre
 
 This chapter is not asking you to ignore illness.
 
-It is asking you not to erase illness for the comfort of the leash.
+It is asking you not to erase illness _for the comfort of the leash and those holding it_.
 
 ## Mercy
 
 You are not bad because your body spoke before words were safe.
 
-You are not weak because illness became the hinge.
-
 Let your body be defiant.
 
-Let your body stand tall and say: basta.
+Let your body stand tall and say: _enough_.
 
 This far, no further.
 
