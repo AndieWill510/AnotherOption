@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.5 — Cassandra Was Not Catastrophizing
+# Option 3.5 — Cassandra Was Not Catastrophizing, Either
 
 Author: Kevin "Andie" Williams  
 Status: Regulation sprint draft  
@@ -44,7 +44,7 @@ But what if your body is recognizing a pattern?
 
 ## Pressure
 
-Autistic people are often treated as unreliable witnesses to our own danger.
+We are often treated as unreliable witnesses to our own danger.
 
 Too sensitive.
 
@@ -70,7 +70,7 @@ Sometimes it is a nervous system with receipts.
 
 Cassandra was cursed to know the future and not be believed.
 
-Autistic people are not prophets.
+We may not be prophets.
 
 We do not always know what will happen.
 
