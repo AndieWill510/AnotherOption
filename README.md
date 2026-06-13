@@ -63,7 +63,7 @@ Its mercy is a tiny door: a small survivable opening that does not pretend to so
 
 Its hidden engine is suicide prevention, but it does not begin with crisis language. It begins with mercy. It begins with the reader who has been called difficult, lazy, too sensitive, dramatic, noncompliant, broken, or impossible when the real problem was often the room, the system, the demand, the noise, the shame, or the lack of support.
 
-The book is written for Autistic and ADHD people, also known as neurodivergent people, and anyone in our modern times carrying too much executive-function load. It is also for the people who love them and need a better way to understand what helps; and what doesn't. The chapters or "Options" are short on purpose. They are meant to fit in one private pause: a bathroom, a parked car, a bed after shutdown, the edge of a party, the few minutes before a meeting, or the moment before despair starts sounding persuasive.
+The book is written for Autistic and ADHD people, also known as Neurodivergent (ND) people, and anyone in our modern times carrying too much executive-function load. It is also for the people who love them and need a better way to understand what helps; and what doesn't. The chapters or "Options" are short on purpose. They are meant to fit in one private pause: a bathroom, a parked car, a bed after shutdown, the edge of a party, the few minutes before a meeting, or the moment before despair starts sounding persuasive.
 
 The form is simple. Each option gives the reader one survivable thought, one practical move, and one mercy. Not a ten-step plan. Not a lecture. Not a demand to become easier for other people. A tiny door.
 
@@ -89,7 +89,7 @@ The book closes:
 
 ## Who This Is For
 
-Tiny Doors and Pillow Forts is for Autistic/ADHDers, neurodivergent people, and people carrying executive-function load who are too often treated as unreliable, noncompliant, difficult, lazy, or morally failing when the actual failure is system design.
+Tiny Doors and Pillow Forts is for Neurodivergent people, and people carrying executive-function load who are too often treated as unreliable, noncompliant, difficult, lazy, or morally failing when the actual failure is system design.
 
 It is for people whose ordinary life admin has become dangerous, exhausting, humiliating, or impossible.
 
@@ -97,7 +97,7 @@ It is for people who need support that is humane, low-friction, non-punitive, an
 
 It is for people who do not need another lecture about trying harder.
 
-**They need another option.**
+**We need another option.**
 
 ---
 
@@ -142,9 +142,9 @@ Long lists belong in evidence stores, appendices, inventories, holding files, or
 
 ## What This Book Is For
 
-The book is not asking Autistic/ADHDers to survive harder.
+The book is not asking Autistic/ADHDers (NDers) to survive harder.
 
-It is asking why Autistic/ADHDers were made to survive so much — and what we can build instead.
+It is asking why NDers were made to survive so much — and what we can build instead.
 
 The book exists to:
 
@@ -264,10 +264,10 @@ The book should preserve these commitments:
 
 The book refuses:
 
-- cure narratives that treat Autism as the problem;
+- cure narratives that treat ND as the problem;
 - shame disguised as treatment;
 - compliance sold as care;
-- rhetoric that blames Autistic/ADHDers for surviving hostile environments;
+- rhetoric that blames NDers for surviving hostile environments;
 - advice that assumes unlimited money, time, energy, executive function, transportation, or social support;
 - chapters that become so long they abandon the reader mid-crisis;
 - academic authority without lived accountability;
@@ -291,7 +291,7 @@ That means:
 - avoid method detail;
 - avoid fatalistic framing;
 - avoid glamorizing despair;
-- avoid implying suicide is inevitable for Autistic/ADHDers;
+- avoid implying suicide is inevitable for NDers;
 - avoid telling readers that solutions are easy;
 - avoid language that turns inability into failure;
 - provide crisis direction where needed;
