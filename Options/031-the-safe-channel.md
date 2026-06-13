@@ -116,9 +116,11 @@ Tiny if tiny is what the room allows.
 
 ## Mercy
 
-You should not have to become a fast-moving river under a wall.
+You should not have to become a fast-moving river buried under a building.
 
-But one crack in the wall can still help you get through this room.
+But one crack in the wall can help you get through this room. 
+
+And maybe out of it. 
 
 ---
 
