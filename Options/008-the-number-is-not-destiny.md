@@ -30,7 +30,7 @@ Safety: mortality / lifespan / suicide-prevention frame; citation review require
 
 At some point, this book has to say the frightening part plainly.
 
-Research increasingly shows that Autistic people face shorter average lifespans.
+Research increasingly shows that Neurodivergent, and specifically Autistic, people face shorter average lifespans than their Neurotypical counterparts.
 
 That sentence is heavy.
 
@@ -48,7 +48,7 @@ But a number is not destiny.
 
 ## Pressure
 
-When people hear that Autistic people may face shorter lives, the information can land in dangerous ways.
+When people hear that Neurodivergent people may face shorter lives, the information can land in dangerous ways.
 
 It can become doom.
 
@@ -80,7 +80,7 @@ Because daily life can be designed in ways that protect people or wear them down
 
 This book asks:
 
-> What if we treated Autistic longevity as something we can design for?
+> What if we treated Neurodivergent longevity as something we can design for?
 
 Not perfectly.
 
