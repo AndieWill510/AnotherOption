@@ -46,7 +46,7 @@ Then the body starts hiding before the person knows what was hidden.
 
 ## Pressure
 
-Autistic people are often punished for not already knowing the invisible rules.
+We are often punished for not already knowing the invisible rules.
 
 When to move.
 
