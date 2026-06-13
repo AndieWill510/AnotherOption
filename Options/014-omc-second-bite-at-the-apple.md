@@ -42,13 +42,13 @@ Not something you apply for.
 
 Something you are invited into.
 
-And Lee did not invite anyone.
+And Dave did not invite anyone.
 
 ## Pressure
 
 I had had a large group of friends once.
 
-At fifteen.
+At fifteen, barely a teenager.
 
 Then they were violently stolen from me, as they so often are for Autistic people if that kind of belonging ever happens at all.
 
