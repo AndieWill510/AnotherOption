@@ -42,7 +42,7 @@ But if your body cannot use it, the door is still closed.
 
 That does not mean you failed the door.
 
-It means the door does not fit yet.
+It means the door does not fit and may never fit.
 
 ## Pressure
 
@@ -60,7 +60,7 @@ A family plan that assumes you can explain your needs while already overloaded.
 
 A medical instruction that assumes transportation, money, food, sleep, trust, and executive function are already there.
 
-Then, when the support fails, the explanation moves back onto you.
+Then, when the support fails (and it often does), the explanation moves back onto you.
 
 You did not follow through.
 
@@ -82,15 +82,15 @@ But sometimes the help was built for a body, brain, schedule, sensory system, in
 
 ## Reframe
 
-Help is not help until it can be used.
+Help is not help unless it helps.
 
 This is not laziness.
 
 This is design.
 
-A ramp that is too steep is not an accommodation because someone meant well.
+A ramp that is too steep is not an accommodation.
 
-A checklist with forty-seven steps is not support for someone who is already frozen.
+A checklist with sixteen steps is not support.
 
 A conversation that requires perfect self-advocacy during overwhelm is not accessible because it uses kind words.
 
