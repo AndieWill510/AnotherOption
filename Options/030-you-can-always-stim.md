@@ -32,11 +32,9 @@ You can always find some way to stim.
 
 Always.
 
-Even when the room forbids it.
+Even when the room forbids some other version of it.
 
-Even when your family calls it embarrassing.
-
-Even when the police might misread your body before they understand your fear.
+Even when your family calls some other form embarrassing.
 
 That does not mean the world is safe.
 
@@ -44,7 +42,7 @@ It means the body keeps looking for a way to live.
 
 ## Pressure
 
-When people say an Autistic person cannot stim, they usually mean:
+When people say we must not stim, they usually mean:
 
 > You cannot stim in a way other people notice.
 
