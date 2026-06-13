@@ -42,7 +42,7 @@ The body still has needs.
 
 The signal still exists.
 
-But the person learns to fold the signal smaller until the room can pretend nothing is happening.
+But the person learns to fold the signal smaller; the room can pretend nothing is happening.
 
 ## Pressure
 
@@ -50,7 +50,7 @@ Masking can protect a person.
 
 That needs to be said plainly.
 
-It can help someone get through rooms where being visibly Autistic is not safe.
+It can help someone get through rooms where being visibly Neurodivergent is not safe.
 
 Masking can be strategy.
 
@@ -62,7 +62,7 @@ But armor has weight.
 
 A door you can only pass through by leaving most of yourself behind is not free access.
 
-The cost is often ordinary before it becomes dramatic.
+The cost is often ordinary before it becomes dramatic:
 
 You come home and cannot answer a text.
 
@@ -92,7 +92,7 @@ The goal is to stop pretending the mask is weightless.
 
 Masking is compressed regulation.
 
-And compression needs release somewhere.
+And compression needs release **_somewhere_**.
 
 ## Move
 
@@ -116,7 +116,7 @@ If not, noticing the cost is the whole move.
 
 You are not fake because you learned to survive the room.
 
-And you are allowed to be tired after surviving it.
+And? You are allowed to be tired after surviving it.
 
 ---
 
