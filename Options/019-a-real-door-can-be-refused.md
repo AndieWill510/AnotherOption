@@ -74,8 +74,6 @@ But gratitude is not consent.
 
 Someone else's effort does not automatically make the offered thing safe.
 
-Someone else's good intention does not make your no disappear.
-
 ## Reframe
 
 The right to refuse is not decoration.
