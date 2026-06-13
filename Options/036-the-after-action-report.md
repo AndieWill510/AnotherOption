@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 3.13 — The After-Action Report
+# Option 3.13 — The After-Action Repair
 
 Author: Kevin "Andie" Williams  
 Status: Recovery / harm-reduction sprint draft  
@@ -44,7 +44,7 @@ Not to prosecute yourself.
 
 To learn the terrain.
 
-An after-action report is not a confession.
+An after-action report (and repair) is not a confession.
 
 It is a map.
 
