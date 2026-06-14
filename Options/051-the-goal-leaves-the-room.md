@@ -39,7 +39,7 @@ It follows the child home.
 
 If the goal is access, that can help.
 
-If the goal is normal-looking, that can harm.
+If the goal is "normal"-looking, that can harm.
 
 Because the room learns what counts as success.
 
@@ -59,7 +59,7 @@ Another hears:
 
 The original goal may have sounded small.
 
-But by the time it travels through school, family, medicine, and paperwork, it can become a whole weather system.
+But by the time it travels through school, family, medicine, and paperwork, it can become a system of tyranny.
 
 Now the person is not only asked to perform the goal during therapy.
 
