@@ -28,7 +28,7 @@ Safety: ABA / conversion frame / normalization / institutional harm; no method d
 
 ## Doorway
 
-Normal is a dangerous word when adults use it as a destination for a child.
+"Normal" is a dangerous word when adults use it as a destination for a child.
 
 It can sound harmless.
 
@@ -58,13 +58,13 @@ But the real question is:
 
 > What did the child have to give up to produce that appearance?
 
-If the price of normal is silence, fear, or self-erasure, normal costs too much.
+If the price of normal is silence, fear, or self-erasure, "normal" costs too much.
 
 ## Reframe
 
-The goal was never to make Autistic people normal.
+The goal should never, **_ever_** be to make us "normal."
 
-The goal is to make Autistic lives safer, freer, better supported, and more livable.
+The goal must be to make our lives safer, freer, better supported, and more livable.
 
 That may include skills.
 
