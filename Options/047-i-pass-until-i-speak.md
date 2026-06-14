@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.5 — I Pass Until I Speak
+# Option 4.5 — I Pass Until I Start Speaking
 
 Author: Kevin "Andie" Williams  
 Status: Source-witness draft  
@@ -30,9 +30,9 @@ Safety: trans life / ableism / queer survival / passing / anti-normalization; no
 
 It is funny, in the old terrible way.
 
-I have often passed for about five minutes.
+I have often "passed" for about five minutes.
 
-I pass until I open my mouth.
+I "pass" until I open my mouth.
 
 There is an old saying:
 
@@ -48,9 +48,9 @@ Nothing stupid about being queer.
 
 Nothing stupid about being too much for a room that has mistaken numbness for maturity.
 
-The moment I open my mouth, I do not remove doubt that I am stupid.
+And yet, the moment I open my mouth, I do not remove doubt that I am stupid.
 
-I remove doubt that I am alive.
+I remove doubt that I am worthy of being alive, to those who embrace "normal."
 
 ## Pressure
 
@@ -84,17 +84,13 @@ The Autistic shape of my knowing.
 
 The queer refusal to become smaller for someone else’s comfort.
 
-And suddenly the room has work to do.
-
-Some people do not want that work.
+And suddenly the room has work to do: make sure I change or leave, and not necessarily in that order.
 
 They would rather make me the problem than let my existence ask anything of them.
 
 ## Reframe
 
-I do not believe this is only about me.
-
-I think strange, alive people reveal the locked rooms in other people.
+Alive people reveal how locked a room actually is.
 
 The buried selves.
 
@@ -102,7 +98,7 @@ The shamed selves.
 
 The parts covered over by patriarchy, colonialism, hierarchy, respectability, family rules, church rules, school rules, workplace rules, and all the old instructions that said:
 
-> Become acceptable, or become unsafe.
+> Become neurotypical, or become unsafe.
 
 When someone has spent years hiding from themselves, a person who refuses disappearance can feel like an accusation.
 
@@ -158,23 +154,23 @@ No, I do not pass.
 
 Even when I pass.
 
-Because passing asks me to remain a stranger to myself for the room’s convenience.
+Because passing asks us to remain a stranger to myself for the room’s convenience.
 
-And I am done paying that price.
+And I am done paying that price. You may be, too. 
 
-Passing is not okay in the same way normal is not okay.
+Passing is not okay in the same way "normal" is not okay.
 
-Because normal does not make sense.
+Because "normal" does not make sense.
 
-Normal asks the living to impersonate the already-dead.
+"Normal" asks the living to impersonate the living dead.
 
-Normal asks the glorious to become manageable.
+"Normal" asks the glorious to become manageable.
 
-Normal asks the wounded to become quiet.
+"Normal" asks the wounded to become quiet.
 
-Normal asks the gifted to apologize for bringing light into a room built around dimness.
+"Normal" asks the gifted to apologize for bringing light into a room built around dimness.
 
-Dear reader, open your mouth.
+Dear reader, when it is safe, open your mouth.
 
 Not everywhere.
 
