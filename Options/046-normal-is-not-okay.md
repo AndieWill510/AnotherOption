@@ -16,7 +16,7 @@ limitations under the License.
 SPDX-License-Identifier: Apache-2.0
 -->
 
-# Option 4.4 — Normal Is Not Okay
+# Option 4.4 — "Normal" Is Not Okay
 
 Author: Kevin "Andie" Williams  
 Status: Source-witness draft  
@@ -34,13 +34,15 @@ Maybe I never was.
 
 I am a trans woman in 2026 America.
 
-I have been a woman.
-
 I have been a girl.
 
-I have been this person my whole life, even when the room had no language for me, no mercy for me, no category that did not turn me into a problem.
+I tried hard to be a boy. 
 
-I have never fit anyone’s concept of normal.
+I tried really hard to be a man.
+
+Regardless of what I tried to be, I have been Neurodivergent femme my whole life, even when the room had no language for me, no mercy for me, no category that did not turn me into a problem.
+
+I have never fit anyone’s concept of "normal."
 
 And every serious attempt to do so has cost me.
 
@@ -56,11 +58,11 @@ My ability to stay with myself.
 
 So I need to say this plainly:
 
-normal is not okay.
+"normal" is not okay.
 
 ## Pressure
 
-Normal is often treated like safety.
+"Normal" is often treated like safety.
 
 Like health.
 
@@ -68,45 +70,43 @@ Like maturity.
 
 Like proof that a person has healed.
 
-But for some of us, normal was never a shelter.
+But for some of us, "normal" was never a shelter.
 
-Normal was the room that made us sick.
+"Normal" was the room that made us sick.
 
-Normal was the demand that we become smaller, quieter, straighter, easier, more legible, less strange, less bright, less true.
+"Normal" was the demand that we become smaller, quieter, straighter, easier, more legible, less strange, less bright, less true.
 
-Normal asked me to betray the girl I was before anyone agreed she existed.
+"Normal" asked me to betray the girl I was before anyone agreed she existed.
 
-Normal asked me to hide the woman I am now because other people are frightened by what they cannot control.
+"Normal" asked me to hide the woman I am now because other people are frightened by what they cannot control.
 
-Normal asked my Autistic body to become convenient.
+"Normal" asked my Autistic body to become convenient.
 
-Normal asked my queer life to become explainable.
+"Normal" asked my queer life to become explainable.
 
-Normal asked my pain to become polite.
+"Normal" asked my pain to become polite.
 
 That is not health.
 
-That is violence with good manners.
+That is violence with a blazer.
 
 ## Reframe
 
-Normal is not the goal.
+"Normal" is not the goal.
 
-And normal is not neutral.
+And "normal" is not neutral.
 
-Normal can become a weapon.
+"Normal" is a weapon.
 
-Normal can become a measuring stick.
-
-Normal can become the word people use when they want the strange, disabled, queer, Autistic, ADHD, traumatized, trans, tender, brilliant, inconvenient person to disappear without anyone having to admit they asked for disappearance.
+"Normal" is forever and always the word people use when they want the strange, disabled, queer, Autistic, ADHD, traumatized, trans, tender, brilliant, inconvenient person to disappear without anyone having to admit they asked for disappearance.
 
 So no.
 
 Not this time.
 
-Normal is not okay.
+"Normal" is not okay.
 
-Normal is hate speech when it is used to make survival conditional on resemblance.
+"Normal" is hate speech. Say it out loud. 
 
 You do not have to become normal to deserve a life.
 
@@ -136,7 +136,7 @@ I am saying:
 
 you are not alone.
 
-You are not a failed normal person.
+You are not a failed "normal" person.
 
 You are not a broken copy of someone easier.
 
@@ -190,13 +190,13 @@ We can make joy.
 
 We can make community.
 
-We can fight back against the lie that normal is the price of being loved.
+We can fight back against the lie that "normal" is the price of being loved.
 
 That is why I am writing this book.
 
 And maybe that is why you are still reading.
 
-Not because normal saved us.
+Not because "normal" saved us.
 
 Because something truer is still calling us home.
 
