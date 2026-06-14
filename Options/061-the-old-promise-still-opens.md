@@ -37,7 +37,7 @@ Beanie had been dead for five years.
 
 Still, her entrusted care entered the room.
 
-Andie invoked Beanie’s name.
+I invoked Beanie’s name.
 
 The trust answered.
 
@@ -73,27 +73,13 @@ Help does not always come from the person currently holding power.
 
 Sometimes help comes from an older promise.
 
-A buried document.
-
-A policy.
-
 A friend.
 
 An ancestor.
 
-A record.
-
-A benefit.
-
-A diagnosis.
-
-A note.
-
 A law.
 
 An accommodation letter.
-
-A chosen-family agreement.
 
 A tiny piece of infrastructure someone left behind because they knew the day might come when ordinary care failed.
 
@@ -108,22 +94,6 @@ Ask one question:
 > Who or what has already said yes to my care, safety, access, rest, money, treatment, accommodation, or belonging?
 
 Then look for the handle.
-
-A name.
-
-A document.
-
-A benefit.
-
-A policy.
-
-A saved message.
-
-A diagnosis.
-
-A receipt.
-
-A person who remembers.
 
 Not every old yes still opens.
 
