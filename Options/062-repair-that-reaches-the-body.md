@@ -31,9 +31,9 @@ Safety: childhood neglect / family conflict / poverty shame; no parent-villain s
 
 The braces were not metaphor.
 
-The repair reached Andie’s teeth.
+The repair reached my teeth.
 
-It reached the bones of her skull.
+It reached the bones of my skull.
 
 A promise became material.
 
@@ -61,37 +61,17 @@ But they are not the whole repair.
 
 Not when the harm is in the body.
 
-Not when the harm is in the calendar.
-
-Not when the harm is in the money.
-
-Not when the harm is in the record.
-
-Not when the harm is in the nervous system.
-
 If repair never reaches the place where harm lives, the person is left carrying the cost while the room congratulates itself for understanding.
 
 ## Reframe
 
 Repair is not real because someone says the right words.
 
-Repair is real when it reaches the life.
+Repair is real when it reaches a life.
 
-In Andie’s story, the repair reached the mouth.
+When it interrupts poverty before poverty could become a bodily verdict.
 
-It reached the face.
-
-It reached the future body.
-
-It interrupted poverty before poverty could become a bodily verdict.
-
-It interrupted powerlessness before powerlessness could become a permanent shape.
-
-It became a quinceañera gift in another register: not a party, not a dress, not a staged entrance into adulthood, but the right to invoke care, cross the threshold, and refuse to let failed stewardship define the body or the future.
-
-The goal was not to win the argument.
-
-The goal was for care to arrive.
+When it interrupts powerlessness before powerlessness could become a permanent shape.
 
 ## Move
 
@@ -103,11 +83,6 @@ Possible answers:
 
 > my body  
 > my sleep  
-> my calendar  
-> my money  
-> my housing  
-> my medical record  
-> my access  
 > my nervous system  
 > my future self
 
